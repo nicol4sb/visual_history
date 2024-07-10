@@ -1,0 +1,459 @@
+{
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Frise historique",
+        "text": "Civilisations et progrès de l'humanité en un clin d'oeil"
+      }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "-783"
+        },
+        "text": {
+          "headline": "Fondation de Rome",
+          "text": "Romulus fonde la ville de Rome.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-750"
+        },
+        "end_date": {
+          "year": "-600"
+        },
+        "text": {
+          "headline": "Colonisation grecque",
+          "text": "Les cités grecques colonisent la Sicile et le sud de l'Italie. Ischia, Locri, Capour, Crotone, Sibari.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-550"
+        },
+        "text": {
+          "headline": "Fondation de l'empire perse / Achéménide",
+          "text": "Tolérance religieuse, satrapes, Persépolis (archers de Darius mosaïque) conquêtes militaires en Mésopotamie.<br>Territoire: Iran actuel"
+        },
+        "group": "Moyen-Orient",
+        "background": {
+          "color": "#ffa07a"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-500"
+        },
+        "text": {
+          "headline": "République romaine",
+          "text": "Tarquinius évincé du pouvoir et début de la République romaine.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-500"
+        },
+        "text": {
+          "headline": "Sun Tzu - L'art de la guerre",
+          "text": "Écriture du traité militaire 'L'Art de la guerre'.<br>Territoire: Chine actuelle"
+        },
+        "group": "Asie",
+        "background": {
+          "color": "#87cefa"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-490"
+        },
+        "text": {
+          "headline": "Bataille de Marathon",
+          "text": "Les Grecs remportent une victoire décisive contre les Perses.<br>Territoire: Grèce actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-480"
+        },
+        "text": {
+          "headline": "Bataille de Salamine",
+          "text": "Victoire navale grecque contre les Perses.<br>Territoire: Grèce actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-331"
+        },
+        "text": {
+          "headline": "Alexandre le Grand",
+          "text": "Alexandre le Grand renverse les Perses et étend son empire.<br>Territoire: Moyen-Orient"
+        },
+        "group": "Moyen-Orient",
+        "background": {
+          "color": "#ffa07a"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-44"
+        },
+        "text": {
+          "headline": "Assassinat de Jules César",
+          "text": "Jules César est assassiné à Rome.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-27"
+        },
+        "text": {
+          "headline": "Octave Auguste fonde l'Empire romain",
+          "text": "Début de l'Empire romain sous Auguste.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-218"
+        },
+        "text": {
+          "headline": "Hannibal et les guerres puniques",
+          "text": "Hannibal traverse les Alpes pour attaquer Rome.<br>Territoire: Italie actuelle"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-2000"
+        },
+        "end_date": {
+          "year": "-150"
+        },
+        "text": {
+          "headline": "Pergame",
+          "text": "Développement de la cité de Pergame en Anatolie.<br>Territoire: Turquie actuelle"
+        },
+        "group": "Moyen-Orient",
+        "background": {
+          "color": "#ffa07a"
+        }
+      },
+      {
+        "start_date": {
+          "year": "-476"
+        },
+        "text": {
+          "headline": "Chute de l'Empire romain d'Occident",
+          "text": "Fin de l'Empire romain d'Occident.<br>Territoire: Europe"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#90ee90"
+        }
+      },
+      {
+        "start_date": {
+          "year": "552"
+        },
+        "text": {
+          "headline": "Justinien et la soie",
+          "text": "Des moines volent des œufs de vers à soie en Chine et les rapportent à Byzance.<br>Territoire: Moyen-Orient"
+        },
+        "group": "Moyen-Orient",
+        "background": {
+          "color": "#ffa07a"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1450"
+        },
+        "end_date": {
+          "year": "1780"
+        },
+        "text": {
+          "headline": "Renaissance",
+          "text": "Période de la Renaissance marquant une redécouverte de l'art, de la science et de la culture.<br>Territoire: Europe"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f0e68c"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1502"
+        },
+        "text": {
+          "headline": "Carte volée par Cantino",
+          "text": "Cantino ramène une carte de Lisbonne qui montre les découvertes portugaises.<br>Territoire: Portugal"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f0e68c"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1780"
+        },
+        "end_date": {
+          "year": "1880"
+        },
+        "text": {
+          "headline": "Révolution industrielle",
+          "text": "Période de grandes innovations technologiques et industrielles.<br>Territoire: Monde entier"
+        },
+        "group": "Monde entier",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1781"
+        },
+        "text": {
+          "headline": "Guerre d'indépendance des États-Unis",
+          "text": "Les États-Unis obtiennent leur indépendance du Royaume-Uni.<br>Territoire: USA"
+        },
+        "group": "Amériques",
+        "background": {
+          "color": "#ff6347"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1782"
+        },
+        "text": {
+          "headline": "Première machine à tisser sur le continent",
+          "text": "Introduction de la première machine à tisser copiée sur les modèles anglais.<br>Territoire: Europe"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1861"
+        },
+        "text": {
+          "headline": "Guerre de Sécession",
+          "text": "Conflit entre les États du Nord et du Sud des États-Unis.<br>Territoire: USA"
+        },
+        "group": "Amériques",
+        "background": {
+          "color": "#ff6347"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1870"
+        },
+        "text": {
+          "headline": "Guerre franco-prussienne",
+          "text": "Conflit entre la France et la Prusse.<br>Territoire: Europe"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1871"
+        },
+        "end_date": {
+          "year": "1918"
+        },
+        "text": {
+          "headline": "Empire allemand",
+          "text": "Kaiser Wilhelm et le chancelier Otto von Bismarck dirigent l'Empire allemand.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1919"
+        },
+        "text": {
+          "headline": "Constitution de Weimar",
+          "text": "Adoption de la constitution de Weimar en Allemagne.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1925"
+        },
+        "text": {
+          "headline": "Hindenburg président",
+          "text": "Paul von Hindenburg est élu président de l'Allemagne.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1932"
+        },
+        "text": {
+          "headline": "Les Nazis majoritaires au Reichstag",
+          "text": "Le parti Nazi devient majoritaire au Reichstag allemand.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1933"
+        },
+        "text": {
+          "headline": "Hitler nommé chancelier",
+          "text": "Hindenburg nomme Adolf Hitler chancelier de l'Allemagne.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1933"
+        },
+        "text": {
+          "headline": "Incendie du Reichstag",
+          "text": "Le Reichstag est incendié, ce qui mène à l'adoption de lois d'urgence.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1933"
+        },
+        "text": {
+          "headline": "Ermächtigungsgesetz",
+          "text": "Loi des pleins pouvoirs adoptée, donnant à Hitler des pouvoirs dictatoriaux.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1939"
+        },
+        "text": {
+          "headline": "Invasion de la Pologne",
+          "text": "L'Allemagne envahit la Pologne, déclenchant la Seconde Guerre mondiale.<br>Territoire: Pologne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1949"
+        },
+        "text": {
+          "headline": "Constitution de la RDA",
+          "text": "Adoption de la constitution de la République Démocratique Allemande (RDA).<br>Territoire: Allemagne de l'Est"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1968"
+        },
+        "text": {
+          "headline": "Printemps de Prague",
+          "text": "Mouvement de libéralisation en Tchécoslovaquie réprimé par l'URSS.<br>Territoire: Tchécoslovaquie"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1980"
+        },
+        "text": {
+          "headline": "Perestroïka",
+          "text": "Mouvement de réformes économiques et politiques en URSS sous Gorbatchev.<br>Territoire: URSS"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1961"
+        },
+        "end_date": {
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Mur de Berlin",
+          "text": "Construction et chute du mur de Berlin séparant l'Est et l'Ouest.<br>Territoire: Allemagne"
+        },
+        "group": "Europe",
+        "background": {
+          "color": "#f4a460"
+        }
+      }
+    ]
+  }
+}

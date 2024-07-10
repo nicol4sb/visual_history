@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Complete TimelineJS Example</title>
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css" />
+  <style>
+    #timeline-embed {
+      width: 100%;
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div id="timeline-embed"></div>
+  <script>
+    const options = {
+      timenav_position: "top", // Position de la navigation
+      scale_factor: 0.5, // Facteur d'échelle
+      initial_zoom: 3, // Zoom initial
+      timenav_height_percentage: 25, // Hauteur de la navigation temporelle en pourcentage
+      duration: 1000, // Durée des animations en millisecondes
+      start_at_slide: 0 // Démarre à la première diapositive
+    };
+
+    fetch("/timeline_data.json")
+      .then(response => response.json())
+      .then(data => {
+        if (data.timeline && data.timeline.events && data.timeline.events.length > 0) {
+          initializeTimeline(data.timeline);
+        } else {
+          console.error("La configuration de la frise n'a pas d'événements.");
+        }
+      })
+      .catch(error => console.error("Erreur lors du chargement des données de la frise:", error));
+
+    function initializeTimeline(timelineData) {
+      const timelineContainer = document.getElementById("timeline-embed");
+      new TL.Timeline(timelineContainer, timelineData, options);
+      console.log("Frise chargée avec succès:", timelineData);
+    }
+  </script>
+</body>
+</html>

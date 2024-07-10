@@ -1,0 +1,253 @@
+{
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Frise historique",
+        "text": "Civilisations et progrès de l'humanité en un clin d'oeil"
+      }
+    },
+    "events": [
+      {
+        "start_date": {"year": "-3500"},
+        "text": {
+          "headline": "Civilisation sumérienne",
+          "text": "Émergence des premières cités-états en Mésopotamie. Les Sumériens ont développé l'écriture cunéiforme et les ziggurats. Décliné face aux Akkadiens vers -2334."
+        },
+        "background": {"color": "#cf7f54"},
+        "territory": "Irak actuel",
+        "population": "50'000"
+      },
+      {
+        "start_date": {"year": "-3100"},
+        "end_date": {"year": "-2181"},
+        "text": {
+          "headline": "Unification de l'Égypte",
+          "text": "Narmer unifie la Haute et la Basse Égypte. Époque des pyramides et du panthéon égyptien. Conquise par Alexandre le Grand en -332."
+        },
+        "background": {"color": "#c48e00"},
+        "territory": "Égypte actuelle",
+        "population": "1'000'000"
+      },
+      {
+        "start_date": {"year": "-2334"},
+        "end_date": {"year": "-2154"},
+        "text": {
+          "headline": "Empire d'Akkad",
+          "text": "Premier empire multiethnique sous Sargon d'Akkad. Centre administratif en Mésopotamie. Décliné après la mort de Sargon."
+        },
+        "background": {"color": "#cf7f54"},
+        "territory": "Irak actuel",
+        "population": "100'000"
+      },
+      {
+        "start_date": {"year": "-1600"},
+        "end_date": {"year": "-1100"},
+        "text": {
+          "headline": "Civilisation mycénienne",
+          "text": "Dominante en Grèce continentale et îles de la mer Égée. Connu pour l'Iliade et la guerre de Troie. Décliné par les Peuples de la mer."
+        },
+        "background": {"color": "#77b367"},
+        "territory": "Grèce actuelle",
+        "population": "150'000"
+      },
+      {
+        "start_date": {"year": "-27"},
+        "end_date": {"year": "476"},
+        "text": {
+          "headline": "Empire romain",
+          "text": "République romaine évolue en un empire couvrant l'Europe, l'Afrique du Nord et le Moyen-Orient. Pax Romana et Constantinople fondé en 330."
+        },
+        "background": {"color": "#a23f25"},
+        "territory": "Italie actuelle",
+        "population": "60'000'000"
+      },
+      {
+        "start_date": {"year": "618"},
+        "end_date": {"year": "907"},
+        "text": {
+          "headline": "Dynastie Tang",
+          "text": "Épanouissement culturel en Chine. Capitales à Chang'an et Luoyang. Avancées en poésie, peinture et commerce le long de la Route de la Soie."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Chine actuelle",
+        "population": "50'000'000"
+      },
+      {
+        "start_date": {"year": "794"},
+        "end_date": {"year": "1185"},
+        "text": {
+          "headline": "Période Heian au Japon",
+          "text": "Fondation de la ville de Kyoto comme capitale impériale. Époque de la littérature classique japonaise et de la cour impériale."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Japon actuel",
+        "population": "5'000'000"
+      },
+      {
+        "start_date": {"year": "960"},
+        "end_date": {"year": "1279"},
+        "text": {
+          "headline": "Dynastie Song en Chine",
+          "text": "Innovation en technologie, économie et gouvernance. Âge d'or de la Chine avec avancements en métallurgie, médecine et arts."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Chine actuelle",
+        "population": "100'000'000"
+      },
+      {
+        "start_date": {"year": "1271"},
+        "end_date": {"year": "1368"},
+        "text": {
+          "headline": "Dynastie Yuan en Chine",
+          "text": "Empire mongol en Chine avec Kubilai Khan comme empereur. Intégration culturelle entre Mongols et Chinois malgré la domination."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Chine actuelle",
+        "population": "120'000'000"
+      },
+      {
+        "start_date": {"year": "1428"},
+        "end_date": {"year": "1533"},
+        "text": {
+          "headline": "Empire Aztèque",
+          "text": "Puissante civilisation mésoaméricaine avec Tenochtitlan comme capitale. Agriculture intensive, écriture et arts. Conquise par les Espagnols en 1521."
+        },
+        "background": {"color": "#a23f25"},
+        "territory": "Mexique actuel",
+        "population": "25'000'000"
+      },
+      {
+        "start_date": {"year": "1438"},
+        "end_date": {"year": "1533"},
+        "text": {
+          "headline": "Civilisation inca",
+          "text": "Empire des Andes avec Machu Picchu comme centre administratif. Agriculture en terrasses, système de quipus. Conquise par les Espagnols en 1533."
+        },
+        "background": {"color": "#a23f25"},
+        "territory": "Pérou actuel",
+        "population": "12'000'000"
+      },
+      {
+        "start_date": {"year": "794"},
+        "end_date": {"year": "1185"},
+        "text": {
+          "headline": "Période Heian au Japon",
+          "text": "Fondation de la ville de Kyoto comme capitale impériale. Époque de la littérature classique japonaise et de la cour impériale."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Japon actuel",
+        "population": "5'000'000"
+      },
+      {
+        "start_date": {"year": "476"},
+        "end_date": {"year": "1453"},
+        "text": {
+          "headline": "Empire byzantin",
+          "text": "Capitale à Constantinople. Christianisme orthodoxe, Code de Justinien, art byzantin. Chute à la prise de Constantinople par les Ottomans en 1453."
+        },
+        "background": {"color": "#77b367"},
+        "territory": "Turquie actuelle",
+        "population": "20'000'000"
+      },
+      {
+        "start_date": {"year": "1299"},
+        "end_date": {"year": "1922"},
+        "text": {
+          "headline": "Empire ottoman",
+          "text": "Conquête de Constantinople en 1453. Suleiman le Magnifique, arts, sciences et commerce transcontinental. Décliné au 20e siècle avec la dissolution."
+        },
+        "background": {"color": "#77b367"},
+        "territory": "Turquie actuelle",
+        "population": "35'000'000"
+      },
+      {
+        "start_date": {"year": "800"},
+        "end_date": {"year": "888"},
+        "text": {
+          "headline": "Empire carolingien",
+          "text": "Règne de Charlemagne, renaissance carolingienne, éducation et architecture. Partage après le traité de Verdun en 843."
+        },
+        "background": {"color": "#77b367"},
+        "territory": "France actuelle",
+        "population": "10'000'000"
+      },
+      {
+        "start_date": {"year": "1236"},
+        "end_date": {"year": "1480"},
+        "text": {
+          "headline": "Empire du Mali",
+          "text": "Mansa Musa, prospérité grâce à l'or, centres d'apprentissage à Tombouctou. Décliné par les attaques et la fragmentation interne."
+        },
+        "background": {"color": "#77b367"},
+        "territory": "Mali actuel",
+        "population": "15'000'000"
+      },
+      {
+        "start_date": {"year": "960"},
+        "end_date": {"year": "1279"},
+        "text": {
+          "headline": "Dynastie Song en Chine",
+          "text": "Innovation en technologie, économie et gouvernance. Âge d'or de la Chine avec avancements en métallurgie, médecine et arts."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Chine actuelle",
+        "population": "100'000'000"
+      },
+      {
+        "start_date": {"year": "1336"},
+        "end_date": {"year": "1573"},
+        "text": {
+          "headline": "Période Muromachi au Japon",
+          "text": "Shogunat Ashikaga, influence culturelle de la Chine et des arts Zen. Guerres civiles et arrivée des Occidentaux à la fin."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Japon actuel",
+        "population": "10'000'000"
+      },
+      {
+        "start_date": {"year": "1337"},
+        "end_date": {"year": "1837"},
+        "text": {
+          "headline": "Empire moghol",
+          "text": "Babur fonde l'empire, Akbar le Grand, architecture, art, religion et agriculture. Décliné par les guerres de succession."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Inde actuelle",
+        "population": "150'000'000"
+      },
+      {
+        "start_date": {"year": "1206"},
+        "end_date": {"year": "1526"},
+        "text": {
+          "headline": "Empire Delhi Sultanate",
+          "text": "Expansion musulmane en Inde, architecture, art et poésie en ourdou. Décliné par la montée de l'empire moghol."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Inde actuelle",
+        "population": "30'000'000"
+      },
+      {
+        "start_date": {"year": "1469"},
+        "end_date": {"year": "1707"},
+        "text": {
+          "headline": "Empire sikh",
+          "text": "Fondation par Guru Nanak, Ranjit Singh, architecture, métallurgie et guerres contre les Britanniques. Annexé à l'Inde britannique."
+        },
+        "background": {"color": "#699ed7"},
+        "territory": "Inde actuelle",
+        "population": "20'000'000"
+      },
+      {
+        "start_date": {"year": "753"},
+        "end_date": {"year": "476"},
+        "text": {
+          "headline": "Empire romain occidental",
+          "text": "République romaine devient un empire. Conquêtes militaires, Pax Romana et christianisme. Décliné par les invasions barbares."
+        },
+        "background": {"color": "#a23f25"},
+        "territory": "Europe occidentale",
+        "population": "30'000'000"
+      }
+    ]
+  }
+}
