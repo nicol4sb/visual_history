@@ -55,18 +55,6 @@
         "population": "1'000'000"
       },
       {
-        "start_date": { "year": "-2181" },
-        "end_date": { "year": "-2055" },
-        "text": {
-          "headline": "Première Période Intermédiaire de l'Égypte",
-          "text": "Après la fin de l'Ancien Empire et de la sixième dynastie, l'Égypte a connu une période de décentralisation politique et de troubles sociaux connue sous le nom de Première Période Intermédiaire. Cette époque a vu la fragmentation du pouvoir central, avec plusieurs nomarques locaux (gouverneurs) prenant le contrôle de leurs propres régions.<br><br>Les capitales régionales comme Héracléopolis en Basse Égypte et Thèbes en Haute Égypte ont émergé comme centres de pouvoir concurrents. Cette période a également été marquée par des famines, des conflits internes et une diminution des ressources économiques.<br><br>Malgré les troubles, la Première Période Intermédiaire a également été une époque d'innovation culturelle et artistique. Les tombes des nobles locaux montrent une grande diversité de styles artistiques et une évolution des pratiques funéraires.<br><br>Les Égyptiens de cette époque consommaient une alimentation de base composée de pain, de bière, de légumes, et de poisson. Les loisirs incluaient la musique, la danse et les jeux. Les efforts pour réunifier l'Égypte ont finalement abouti sous le règne de Montouhotep II, marquant le début du Moyen Empire."
-        },
-        "background": { "color": "#8b0000" },
-        "group": "Égypte",
-        "territory": "Égypte actuelle",
-        "population": "1'000'000"
-      },
-      {
         "start_date": { "year": "-2055" },
         "end_date": { "year": "-1650" },
         "text": {
