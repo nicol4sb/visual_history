@@ -11,7 +11,7 @@
         "start_date": { "year": "-3500" },
         "text": {
           "headline": "Civilisation sumérienne",
-          "text": "Émergence des premières cités-états en Mésopotamie. Les Sumériens ont développé l'écriture cunéiforme et les ziggurats. Décliné face aux Akkadiens vers -2334."
+          "text": "Émergence des premières cités-états en Mésopotamie. Les Sumériens ont développé l'écriture cunéiforme et les ziggurats. Décliné face aux Akkadiens vers -2334.<br><br>Les principales villes sumériennes incluent Ur, Uruk, et Eridu. Les Sumériens étaient gouvernés par des rois-prêtres, et chaque ville avait son propre dieu patron. Les Sumériens sont également célèbres pour leurs découvertes en mathématiques, astronomie et médecine. Ils utilisaient un système numérique basé sur 60, d'où nos 60 secondes dans une minute et 60 minutes dans une heure.<br><br>Leur alimentation comprenait de l'orge, du blé, des légumes, des fruits, et des produits laitiers. Ils fabriquaient également de la bière. L'art sumérien est représenté par des sculptures, des fresques et des sceaux-cylindres, souvent utilisés pour marquer des documents officiels."
         },
         "background": { "color": "#8b4513" },
         "group": "Asie Mineure",
@@ -23,7 +23,7 @@
         "end_date": { "year": "-2154" },
         "text": {
           "headline": "Empire d'Akkad",
-          "text": "Premier empire multiethnique sous Sargon d'Akkad. Centre administratif en Mésopotamie. Décliné après la mort de Sargon."
+          "text": "Premier empire multiethnique sous Sargon d'Akkad. Centre administratif en Mésopotamie. Décliné après la mort de Sargon.<br><br>Sargon le Grand est l'un des plus célèbres dirigeants de l'Empire d'Akkad. Il est connu pour avoir unifié les cités-états sumériennes sous une seule règle. L'Empire d'Akkad a fait des progrès significatifs en matière d'administration, de l'écriture et de l'art. Ils ont créé des sculptures élaborées et des reliefs en pierre.<br><br>Les Akkadiens avaient une alimentation similaire à celle des Sumériens, avec une forte dépendance à l'agriculture et à l'élevage. L'art et la culture akkadiens étaient influencés par les Sumériens, mais ils ont également introduit leurs propres styles et techniques."
         },
         "background": { "color": "#8b4513" },
         "group": "Asie Mineure",
@@ -34,20 +34,80 @@
         "start_date": { "year": "-3100" },
         "end_date": { "year": "-2181" },
         "text": {
-          "headline": "Unification de l'Égypte",
-          "text": "Narmer unifie la Haute et la Basse Égypte. Époque des pyramides et du panthéon égyptien. Conquise par Alexandre le Grand en -332."
+          "headline": "Civilisation de l'Égypte ancienne",
+          "text": "Narmer unifie la Haute et la Basse Égypte, marquant le début de la première dynastie et de l'Égypte unifiée. Haute Égypte, située dans le sud, est caractérisée par la vallée du Nil et des terres plus étroites. Basse Égypte, au nord, comprend le delta du Nil avec des terres fertiles et propices à l'agriculture. Avant l'unification, ces régions avaient des cultures et des dirigeants distincts.<br><br>Les pharaons tels que Khéops, Khéphren et Mykérinos ont laissé une marque indélébile avec la construction des pyramides de Gizeh. La société égyptienne était hiérarchisée, avec le pharaon au sommet, suivi des prêtres, des nobles, et des artisans.<br><br>Les Égyptiens ont fait des avancées en médecine, en mathématiques et en ingénierie. Leur écriture hiéroglyphique et leur art sophistiqué, visible dans les fresques et les sculptures, sont encore admirés aujourd'hui. Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et des poissons du Nil. La religion jouait un rôle central, avec des dieux comme Rê, Osiris et Isis."
         },
         "background": { "color": "#8b0000" },
-        "group": "Asie Mineure",
+        "group": "Égypte",
         "territory": "Égypte actuelle",
         "population": "1'000'000"
+      },
+      {
+        "start_date": { "year": "-2181" },
+        "end_date": { "year": "-2055" },
+        "text": {
+          "headline": "Première Période Intermédiaire de l'Égypte",
+          "text": "Après la fin de l'Ancien Empire et de la sixième dynastie, l'Égypte a connu une période de décentralisation politique et de troubles sociaux connue sous le nom de Première Période Intermédiaire. Cette époque a vu la fragmentation du pouvoir central, avec plusieurs nomarques locaux (gouverneurs) prenant le contrôle de leurs propres régions.<br><br>Les capitales régionales comme Héracléopolis en Basse Égypte et Thèbes en Haute Égypte ont émergé comme centres de pouvoir concurrents. Cette période a également été marquée par des famines, des conflits internes et une diminution des ressources économiques.<br><br>Malgré les troubles, la Première Période Intermédiaire a également été une époque d'innovation culturelle et artistique. Les tombes des nobles locaux montrent une grande diversité de styles artistiques et une évolution des pratiques funéraires.<br><br>Les Égyptiens de cette époque consommaient une alimentation de base composée de pain, de bière, de légumes, et de poisson. Les loisirs incluaient la musique, la danse et les jeux. Les efforts pour réunifier l'Égypte ont finalement abouti sous le règne de Montouhotep II, marquant le début du Moyen Empire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Égypte",
+        "territory": "Égypte actuelle",
+        "population": "1'000'000"
+      },
+      {
+        "start_date": { "year": "-2181" },
+        "end_date": { "year": "-2055" },
+        "text": {
+          "headline": "Première Période Intermédiaire de l'Égypte",
+          "text": "Après la fin de l'Ancien Empire et de la sixième dynastie, l'Égypte a connu une période de décentralisation politique et de troubles sociaux connue sous le nom de Première Période Intermédiaire. Cette époque a vu la fragmentation du pouvoir central, avec plusieurs nomarques locaux (gouverneurs) prenant le contrôle de leurs propres régions.<br><br>Les capitales régionales comme Héracléopolis en Basse Égypte et Thèbes en Haute Égypte ont émergé comme centres de pouvoir concurrents. Cette période a également été marquée par des famines, des conflits internes et une diminution des ressources économiques.<br><br>Malgré les troubles, la Première Période Intermédiaire a également été une époque d'innovation culturelle et artistique. Les tombes des nobles locaux montrent une grande diversité de styles artistiques et une évolution des pratiques funéraires.<br><br>Les Égyptiens de cette époque consommaient une alimentation de base composée de pain, de bière, de légumes, et de poisson. Les loisirs incluaient la musique, la danse et les jeux. Les efforts pour réunifier l'Égypte ont finalement abouti sous le règne de Montouhotep II, marquant le début du Moyen Empire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Égypte",
+        "territory": "Égypte actuelle",
+        "population": "1'000'000"
+      },
+      {
+        "start_date": { "year": "-2055" },
+        "end_date": { "year": "-1650" },
+        "text": {
+          "headline": "Moyen Empire de l'Égypte",
+          "text": "Le Moyen Empire, qui a duré de -2055 à -1650, est une période de renaissance culturelle, politique et économique en Égypte. Après la Première Période Intermédiaire, Montouhotep II de Thèbes a réussi à réunifier l'Égypte, marquant le début de la onzième dynastie.<br><br>Le Moyen Empire est souvent considéré comme l'âge d'or de la civilisation égyptienne. Les pharaons de cette période, tels que Sesostris III et Amenemhat III, ont renforcé l'autorité centrale et ont mis en place des réformes administratives pour améliorer la gestion des ressources et la justice.<br><br>Les Égyptiens ont construit des temples monumentaux et des complexes funéraires élaborés. La littérature égyptienne a prospéré avec des œuvres célèbres comme le conte de Sinouhé. L'art et l'architecture ont atteint de nouveaux sommets de sophistication.<br><br>La société égyptienne était bien organisée avec une hiérarchie claire, mais il y avait aussi des opportunités pour la mobilité sociale. L'économie était basée sur l'agriculture, avec des projets d'irrigation améliorant la production agricole.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. Les Égyptiens adoraient une multitude de dieux, avec des rituels religieux jouant un rôle central dans la vie quotidienne.<br><br>Le Moyen Empire a finalement décliné en raison de troubles internes et des invasions des Hyksos, marquant le début de la Deuxième Période Intermédiaire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Égypte",
+        "territory": "Égypte actuelle",
+        "population": "1'500'000"
+      },
+      {
+        "start_date": { "year": "-1650" },
+        "end_date": { "year": "-1550" },
+        "text": {
+          "headline": "Deuxième Période Intermédiaire de l'Égypte",
+          "text": "La Deuxième Période Intermédiaire de l'Égypte, qui s'étend de -1650 à -1550, est caractérisée par la domination des Hyksos dans le nord de l'Égypte et l'affaiblissement du pouvoir central. Les Hyksos, un peuple d'origine asiatique, ont introduit de nouvelles technologies comme le char de guerre et des armes en bronze.<br><br>Ils ont établi leur capitale à Avaris et ont gouverné la Basse Égypte, tandis que des dynasties égyptiennes locales continuaient de régner sur la Haute Égypte. Les Hyksos ont adopté de nombreux aspects de la culture égyptienne, y compris les dieux et les pratiques funéraires.<br><br>La société égyptienne a continué de fonctionner malgré la division du pays. L'économie reposait toujours sur l'agriculture, mais les conflits et les troubles ont affecté la stabilité et la production. Les pharaons de la Haute Égypte ont cherché à résister et à reconquérir les territoires occupés par les Hyksos.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. La religion restait un élément central de la vie quotidienne, avec des pratiques et des rituels pour honorer les dieux.<br><br>La Deuxième Période Intermédiaire a pris fin avec la campagne militaire du pharaon Ahmôsis Ier, qui a réussi à expulser les Hyksos et à réunifier l'Égypte, marquant ainsi le début du Nouvel Empire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Égypte",
+        "territory": "Égypte actuelle",
+        "population": "1'200'000"
+      },
+      {
+        "start_date": { "year": "-1550" },
+        "end_date": { "year": "-1077" },
+        "text": {
+          "headline": "Nouvel Empire de l'Égypte",
+          "text": "Le Nouvel Empire, qui a duré de -1550 à -1077, est souvent considéré comme l'apogée de la puissance et de la prospérité de l'Égypte ancienne. Après avoir expulsé les Hyksos, les pharaons du Nouvel Empire ont établi un empire puissant qui s'étendait de la Nubie au sud à l'Asie occidentale.<br><br>Parmi les pharaons les plus célèbres de cette période figurent Hatchepsout, Akhenaton, Toutankhamon, et Ramsès II. Hatchepsout, l'une des rares femmes pharaons, a favorisé le commerce et construit des monuments grandioses comme son temple funéraire à Deir el-Bahari.<br><br>Akhenaton a introduit une révolution religieuse en promouvant le culte d'Aton, le disque solaire, et en supprimant les autres cultes. Son fils, Toutankhamon, est célèbre pour son tombeau intact découvert en 1922. Ramsès II, également connu sous le nom de Ramsès le Grand, est réputé pour ses conquêtes militaires et ses monuments colossaux, comme les temples d'Abou Simbel.<br><br>La société égyptienne du Nouvel Empire était très hiérarchisée, avec une bureaucratie complexe pour administrer les territoires conquis. L'économie reposait sur l'agriculture, le commerce, et les tributs des régions dominées. Les Égyptiens ont continué à faire des avancées en médecine, en ingénierie et en astronomie.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. La religion restait centrale, avec de nombreux temples et rituels pour honorer les dieux.<br><br>Le Nouvel Empire a finalement décliné en raison de troubles internes, de pressions externes et de l'épuisement des ressources, marquant le début de la Troisième Période Intermédiaire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Égypte",
+        "territory": "Égypte actuelle",
+        "population": "2'000'000"
       },
       {
         "start_date": { "year": "-1600" },
         "end_date": { "year": "-1100" },
         "text": {
           "headline": "Civilisation mycénienne",
-          "text": "Dominante en Grèce continentale et îles de la mer Égée. Connu pour l'Iliade et la guerre de Troie. Décliné par les Peuples de la mer."
+          "text": "Dominante en Grèce continentale et îles de la mer Égée, la civilisation mycénienne est connue pour l'Iliade et la guerre de Troie. Les Mycéniens étaient gouvernés par des rois puissants, tels qu'Agamemnon, et leur société était militariste. Ils ont construit des forteresses massives comme celles de Mycènes et de Tirynthe.<br><br>Les Mycéniens utilisaient le Linéaire B pour l'écriture, principalement à des fins administratives. Leur alimentation comprenait du blé, de l'orge, des légumes, du vin, et de la viande. L'art mycénien est caractérisé par des bijoux en or, des fresques, et des poteries. Les Mycéniens étaient également connus pour leurs compétences en navigation et en commerce à travers la Méditerranée.<br><br>La civilisation mycénienne a décliné vers la fin du 12ème siècle avant notre ère, en grande partie en raison des invasions des Peuples de la mer. Les Peuples de la mer étaient un groupe de populations maritimes qui ont attaqué les civilisations méditerranéennes à cette époque. Leur origine exacte est encore débattue, mais ils pourraient avoir inclus des groupes comme les Philistins, les Sicules et les Sardes.<br><br>Ces envahisseurs ont mené des raids dévastateurs qui ont perturbé les routes commerciales et détruit des centres urbains. La destruction causée par les Peuples de la mer, combinée à des troubles internes et à des catastrophes naturelles, a conduit à l'effondrement de la civilisation mycénienne. Après leur déclin, la Grèce a plongé dans une période de régression culturelle et économique connue sous le nom de « siècles obscurs »."
         },
         "background": { "color": "#556b2f" },
         "group": "Europe",
@@ -59,7 +119,7 @@
         "end_date": { "year": "476" },
         "text": {
           "headline": "Empire romain",
-          "text": "République romaine évolue en un empire couvrant l'Europe, l'Afrique du Nord et le Moyen-Orient. Pax Romana et Constantinople fondé en 330."
+          "text": "République romaine évolue en un empire couvrant l'Europe, l'Afrique du Nord et le Moyen-Orient. Pax Romana et Constantinople fondé en 330.<br><br>Auguste, le premier empereur romain, a inauguré une période de paix et de prospérité connue sous le nom de Pax Romana. Les dirigeants notables incluent Trajan, Hadrien, et Constantin. Les Romains ont fait des découvertes importantes en ingénierie, droit, et gouvernance.<br><br>Leur alimentation comprenait du pain, de l'huile d'olive, du vin, des légumes, et des viandes. Les loisirs incluaient les jeux de gladiateurs, les bains publics, et le théâtre. L'art romain est visible dans les sculptures, les mosaïques, et les architectures grandioses comme le Colisée."
         },
         "background": { "color": "#8b0000" },
         "group": "Europe",
@@ -71,7 +131,7 @@
         "end_date": { "year": "907" },
         "text": {
           "headline": "Dynastie Tang",
-          "text": "Épanouissement culturel en Chine. Capitales à Chang'an et Luoyang. Avancées en poésie, peinture et commerce le long de la Route de la Soie."
+          "text": "Épanouissement culturel en Chine. Capitales à Chang'an et Luoyang. Avancées en poésie, peinture et commerce le long de la Route de la Soie.<br><br>Les empereurs Taizong et Xuanzong sont parmi les dirigeants les plus célèbres de la dynastie Tang. Ils ont encouragé les arts, la littérature, et le commerce. La poésie de Li Bai et Du Fu, et les peintures de Wu Daozi, sont des exemples de l'âge d'or culturel.<br><br>La cuisine Tang comprenait du riz, du blé, des légumes, des fruits, et du thé. La société Tang était cosmopolite, accueillant des marchands et des érudits de diverses régions. Les loisirs incluaient la musique, la danse, et les jeux de société. Les Tang ont également fait des avancées en médecine, astronomie et imprimerie."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Chine",
@@ -83,7 +143,7 @@
         "end_date": { "year": "1279" },
         "text": {
           "headline": "Dynastie Song en Chine",
-          "text": "Innovation en technologie, économie et gouvernance. Âge d'or de la Chine avec avancements en métallurgie, médecine et arts."
+          "text": "Innovation en technologie, économie et gouvernance. Âge d'or de la Chine avec avancements en métallurgie, médecine et arts.<br><br>Les empereurs Taizu et Huizong sont parmi les dirigeants notables de la dynastie Song. Les Song ont perfectionné la boussole, l'imprimerie, et la poudre à canon. Leur économie florissante était basée sur l'agriculture, le commerce et l'industrie.<br><br>Leur alimentation comprenait du riz, des légumes, du poisson, et du thé. Les Song étaient connus pour leurs porcelaines délicates et leurs peintures paysagères. Les loisirs incluaient la poésie, la musique, et les jeux de société comme le Go. La société Song était avancée en termes d'éducation et de bureaucratie."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Chine",
@@ -95,7 +155,7 @@
         "end_date": { "year": "1368" },
         "text": {
           "headline": "Dynastie Yuan en Chine",
-          "text": "Empire mongol en Chine avec Kubilai Khan comme empereur. Intégration culturelle entre Mongols et Chinois malgré la domination."
+          "text": "Empire mongol en Chine avec Kubilai Khan comme empereur. Intégration culturelle entre Mongols et Chinois malgré la domination.<br><br>Kubilai Khan, petit-fils de Gengis Khan, a établi la dynastie Yuan en Chine. Sous son règne, la Chine a vu une fusion de cultures et d'idées. Les Yuan ont soutenu les arts, le commerce, et les sciences. Marco Polo a visité la cour de Kubilai Khan, apportant des récits fascinants en Europe.<br><br>Leur alimentation comprenait du riz, de la viande, des produits laitiers, et du thé. Les Yuan étaient connus pour leurs textiles, leur poterie, et leurs peintures. Les loisirs incluaient la chasse, la musique, et les spectacles de cirque. La dynastie Yuan a finalement décliné en raison de troubles internes et de rébellions."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Chine",
@@ -107,7 +167,7 @@
         "end_date": { "year": "1533" },
         "text": {
           "headline": "Empire Aztèque",
-          "text": "Puissante civilisation mésoaméricaine avec Tenochtitlan comme capitale. Agriculture intensive, écriture et arts. Conquise par les Espagnols en 1521."
+          "text": "Puissante civilisation mésoaméricaine avec Tenochtitlan comme capitale. Agriculture intensive, écriture et arts. Conquise par les Espagnols en 1521.<br><br>Montezuma II est l'un des dirigeants les plus connus de l'Empire aztèque. Les Aztèques étaient des guerriers redoutables et des bâtisseurs d'une grande ville avec des temples et des palais imposants. Ils utilisaient un système d'écriture pictographique pour enregistrer des événements et des transactions.<br><br>Leur alimentation comprenait du maïs, des haricots, des courges, et des tomates. Les Aztèques étaient également connus pour leur chocolat. L'art aztèque incluait des sculptures, des fresques, et des bijoux élaborés. Les loisirs comprenaient des jeux de balle rituels et des cérémonies religieuses complexes."
         },
         "background": { "color": "#8b0000" },
         "group": "Amériques",
@@ -119,7 +179,7 @@
         "end_date": { "year": "1533" },
         "text": {
           "headline": "Civilisation inca",
-          "text": "Empire des Andes avec Machu Picchu comme centre administratif. Agriculture en terrasses, système de quipus. Conquise par les Espagnols en 1533."
+          "text": "Empire des Andes avec Machu Picchu comme centre administratif. Agriculture en terrasses, système de quipus. Conquise par les Espagnols en 1533.<br><br>Les dirigeants notables incluent Pachacuti et Atahualpa. Les Incas ont développé un réseau de routes impressionnant et des techniques agricoles avancées. Les quipus, des cordes nouées, étaient utilisés pour enregistrer des informations.<br><br>Leur alimentation comprenait du maïs, des pommes de terre, des légumineuses, et du quinoa. Les Incas excellaient dans les arts textiles, la poterie, et la métallurgie. Les loisirs incluaient des cérémonies religieuses, la musique, et la danse. La civilisation inca a décliné rapidement après la conquête espagnole et les maladies européennes."
         },
         "background": { "color": "#8b0000" },
         "group": "Amériques",
@@ -131,7 +191,7 @@
         "end_date": { "year": "1453" },
         "text": {
           "headline": "Empire byzantin",
-          "text": "Capitale à Constantinople. Christianisme orthodoxe, Code de Justinien, art byzantin. Chute à la prise de Constantinople par les Ottomans en 1453."
+          "text": "Capitale à Constantinople. Christianisme orthodoxe, Code de Justinien, art byzantin. Chute à la prise de Constantinople par les Ottomans en 1453.<br><br>Les empereurs Justinien et Héraclius sont parmi les plus célèbres dirigeants byzantins. Justinien est connu pour son code juridique, le Corpus Juris Civilis. Les Byzantins ont fait des avancées en architecture, avec la construction de la basilique Sainte-Sophie.<br><br>Leur alimentation comprenait du pain, des légumes, des fruits, du poisson, et du vin. Les loisirs incluaient les courses de chars, les bains publics, et les jeux de société. L'art byzantin est caractérisé par des mosaïques et des icônes religieuses. L'Empire byzantin a finalement décliné en raison de guerres internes et externes."
         },
         "background": { "color": "#556b2f" },
         "group": "Asie Mineure",
@@ -143,7 +203,7 @@
         "end_date": { "year": "1922" },
         "text": {
           "headline": "Empire ottoman",
-          "text": "Conquête de Constantinople en 1453. Suleiman le Magnifique, arts, sciences et commerce transcontinental. Décliné au 20e siècle avec la dissolution."
+          "text": "Conquête de Constantinople en 1453. Suleiman le Magnifique, arts, sciences et commerce transcontinental. Décliné au 20e siècle avec la dissolution.<br><br>Suleiman le Magnifique est l'un des sultans les plus célèbres de l'Empire ottoman. Sous son règne, l'empire a atteint son apogée territoriale et culturelle. Les Ottomans ont fait des avancées significatives en médecine, en ingénierie, et en architecture, avec des structures emblématiques comme la Mosquée bleue.<br><br>Leur alimentation comprenait du blé, du riz, des légumes, des fruits, et de la viande. Les loisirs incluaient la musique, la danse, et les arts martiaux. L'art ottoman est visible dans les tapis, les céramiques, et les calligraphies. L'Empire ottoman a décliné à cause de problèmes internes et de pressions externes, menant à sa dissolution après la Première Guerre mondiale."
         },
         "background": { "color": "#556b2f" },
         "group": "Asie Mineure",
@@ -155,7 +215,7 @@
         "end_date": { "year": "888" },
         "text": {
           "headline": "Empire carolingien",
-          "text": "Règne de Charlemagne, renaissance carolingienne, éducation et architecture. Partage après le traité de Verdun en 843."
+          "text": "Règne de Charlemagne, renaissance carolingienne, éducation et architecture. Partage après le traité de Verdun en 843.<br><br>Charlemagne, ou Charles le Grand, est le plus célèbre dirigeant de l'Empire carolingien. Il a unifié une grande partie de l'Europe occidentale et a été couronné empereur par le pape Léon III en 800. Les Carolingiens ont fait des progrès en éducation, établissant des écoles et promouvant les arts et les lettres.<br><br>Leur alimentation comprenait du pain, de la viande, des légumes, et du fromage. Les loisirs incluaient la chasse, la musique, et les jeux de société. L'art carolingien est visible dans les manuscrits enluminés et les sculptures religieuses. L'Empire carolingien a été divisé entre les petits-fils de Charlemagne après le traité de Verdun."
         },
         "background": { "color": "#556b2f" },
         "group": "Europe",
@@ -167,7 +227,7 @@
         "end_date": { "year": "1480" },
         "text": {
           "headline": "Empire du Mali",
-          "text": "Mansa Musa, prospérité grâce à l'or, centres d'apprentissage à Tombouctou. Décliné par les attaques et la fragmentation interne."
+          "text": "Mansa Musa, prospérité grâce à l'or, centres d'apprentissage à Tombouctou. Décliné par les attaques et la fragmentation interne.<br><br>Mansa Musa est l'un des dirigeants les plus célèbres de l'Empire du Mali. Il est connu pour son pèlerinage à La Mecque, où il a distribué des quantités énormes d'or, mettant ainsi en lumière la richesse de son empire. L'Empire du Mali a fait des progrès significatifs en matière d'éducation et de commerce.<br><br>Leur alimentation comprenait du mil, du sorgho, du riz, du poisson, et des fruits. Les loisirs incluaient la musique, la danse, et les jeux de société. L'art malien est visible dans les textiles, les bijoux, et les sculptures en bois. L'Empire du Mali a décliné en raison de conflits internes et de pressions externes."
         },
         "background": { "color": "#556b2f" },
         "group": "Afrique",
@@ -179,7 +239,7 @@
         "end_date": { "year": "1573" },
         "text": {
           "headline": "Période Muromachi au Japon",
-          "text": "Shogunat Ashikaga, influence culturelle de la Chine et des arts Zen. Guerres civiles et arrivée des Occidentaux à la fin."
+          "text": "Shogunat Ashikaga, influence culturelle de la Chine et des arts Zen. Guerres civiles et arrivée des Occidentaux à la fin.<br><br>Le shogun Ashikaga Takauji est le fondateur du shogunat Muromachi. Pendant cette période, le Japon a vu un développement significatif des arts Zen, influencé par la culture chinoise. Les jardins Zen, la cérémonie du thé, et l'ikebana sont des exemples de cette influence.<br><br>Leur alimentation comprenait du riz, des légumes, du poisson, et du thé. Les loisirs incluaient la poésie, la musique, et les arts martiaux. L'art Muromachi est visible dans les peintures à l'encre, les jardins de rocaille, et les architectures de temples. La période Muromachi a pris fin avec l'arrivée des Européens et les guerres civiles internes."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Extrême Orient",
@@ -191,7 +251,7 @@
         "end_date": { "year": "-1500" },
         "text": {
           "headline": "Civilisation de la vallée de l'Indus",
-          "text": "Une des premières grandes civilisations du monde. Avancées en urbanisme, art, métallurgie, et écriture."
+          "text": "Une des premières grandes civilisations du monde. Avancées en urbanisme, art, métallurgie, et écriture.<br><br>Les villes principales comme Harappa et Mohenjo-Daro montrent une planification urbaine avancée avec des systèmes de drainage et des rues bien organisées. Les Indus utilisaient des sceaux pour la comptabilité et le commerce, ce qui indique un système d'écriture sophistiqué.<br><br>Leur alimentation comprenait du blé, de l'orge, des légumineuses, et des fruits. Les loisirs incluaient la danse, la musique, et les jeux de société. L'art de la vallée de l'Indus est visible dans la poterie, les bijoux, et les sculptures en pierre. La civilisation de l'Indus a décliné en raison de changements climatiques et de migrations."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Asie",
@@ -203,7 +263,7 @@
         "end_date": { "year": "-200" },
         "text": {
           "headline": "Empire Maurya",
-          "text": "L'un des plus grands empires de l'Inde ancienne, fondé par Chandragupta Maurya. Connu pour ses progrès en administration et politique sous Ashoka."
+          "text": "L'un des plus grands empires de l'Inde ancienne, fondé par Chandragupta Maurya. Connu pour ses progrès en administration et politique sous Ashoka.<br><br>Chandragupta Maurya a fondé l'empire après avoir renversé la dynastie Nanda. Son petit-fils Ashoka est célèbre pour avoir promu le bouddhisme et les valeurs de non-violence après la bataille de Kalinga.<br><br>Leur alimentation comprenait du riz, des légumes, des fruits, et du lait. Les loisirs incluaient la chasse, la musique, et la danse. L'art Maurya est visible dans les stupas, les piliers d'Ashoka, et les sculptures religieuses. L'empire Maurya a décliné en raison de la faiblesse administrative et des invasions."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Asie",
@@ -215,7 +275,7 @@
         "end_date": { "year": "1837" },
         "text": {
           "headline": "Empire moghol",
-          "text": "Babur fonde l'empire, Akbar le Grand, architecture, art, religion et agriculture. Décliné par les guerres de succession."
+          "text": "Babur fonde l'empire, Akbar le Grand, architecture, art, religion et agriculture. Décliné par les guerres de succession.<br><br>Babur, un descendant de Gengis Khan, a fondé l'empire en conquérant le nord de l'Inde. Akbar le Grand est connu pour sa politique de tolérance religieuse et ses réformes administratives. Les Moghols ont construit des monuments emblématiques comme le Taj Mahal et le Fort Rouge.<br><br>Leur alimentation comprenait du riz, des légumes, de la viande, et des fruits. Les loisirs incluaient la chasse, la musique, et la poésie. L'art moghol est visible dans les miniatures, les bijoux, et les architectures monumentales. L'empire a décliné à cause de guerres de succession et de l'expansion coloniale européenne."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Asie",
@@ -227,7 +287,7 @@
         "end_date": { "year": "1526" },
         "text": {
           "headline": "Empire Delhi Sultanate",
-          "text": "Expansion musulmane en Inde, architecture, art et poésie en ourdou. Décliné par la montée de l'empire moghol."
+          "text": "Expansion musulmane en Inde, architecture, art et poésie en ourdou. Décliné par la montée de l'empire moghol.<br><br>Les sultans de Delhi, comme Qutb-ud-din Aibak et Alauddin Khalji, ont étendu leur règne à travers le sous-continent indien. Ils ont construit des monuments emblématiques comme le Qutub Minar et la mosquée Quwwat-ul-Islam.<br><br>Leur alimentation comprenait du riz, des légumes, de la viande, et des fruits. Les loisirs incluaient la musique, la danse, et la poésie en ourdou. L'art du Sultanat de Delhi est visible dans l'architecture, les textiles, et les bijoux. L'empire a décliné en raison de guerres internes et de l'émergence de l'empire moghol."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Asie",
@@ -239,7 +299,7 @@
         "end_date": { "year": "1707" },
         "text": {
           "headline": "Empire sikh",
-          "text": "Fondation par Guru Nanak, Ranjit Singh, architecture, métallurgie et guerres contre les Britanniques. Annexé à l'Inde britannique."
+          "text": "Fondation par Guru Nanak, Ranjit Singh, architecture, métallurgie et guerres contre les Britanniques. Annexé à l'Inde britannique.<br><br>Guru Nanak a fondé la religion sikh au 15e siècle, prônant l'égalité et la justice. Maharaja Ranjit Singh a unifié les territoires sikhs et a établi un empire prospère. Les Sikhs ont construit des temples emblématiques comme le Harmandir Sahib (Temple d'Or) à Amritsar.<br><br>Leur alimentation comprenait du chapati, des légumes, des lentilles, et des produits laitiers. Les loisirs incluaient la musique, la danse, et les arts martiaux. L'art sikh est visible dans les manuscrits enluminés, les textiles, et les sculptures. L'empire sikh a été annexé par les Britanniques après des guerres de résistance."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Asie",
@@ -251,7 +311,7 @@
         "end_date": { "year": "476" },
         "text": {
           "headline": "Empire romain occidental",
-          "text": "République romaine devient un empire. Conquêtes militaires, Pax Romana et christianisme. Décliné par les invasions barbares."
+          "text": "République romaine devient un empire. Conquêtes militaires, Pax Romana et christianisme. Décliné par les invasions barbares.<br><br>Jules César et Auguste sont parmi les dirigeants les plus célèbres de l'Empire romain occidental. Jules César, général et dictateur, a étendu les frontières de l'empire en conquérant la Gaule. Son assassinat en 44 avant J.-C. a marqué un tournant dans l'histoire romaine.<br><br>Auguste, son fils adoptif, est devenu le premier empereur et a inauguré la Pax Romana, une période de paix et de prospérité qui a duré deux siècles. Les Romains ont fait des progrès significatifs en ingénierie, droit et gouvernance. Leur alimentation comprenait du pain, de l'huile d'olive, du vin, des légumes et des viandes.<br><br>Les loisirs incluaient les jeux de gladiateurs, les bains publics et le théâtre. L'art romain est visible dans les sculptures, les mosaïques et les architectures grandioses comme le Colisée et le Panthéon. L'Empire romain occidental a décliné en raison de problèmes internes, de corruption, et des invasions barbares au 5ème siècle."
         },
         "background": { "color": "#8b0000" },
         "group": "Europe",
@@ -259,23 +319,11 @@
         "population": "30'000'000"
       },
       {
-        "start_date": { "year": "2500" },
-        "end_date": { "year": "1500" },
-        "text": {
-          "headline": "Civilisation de la vallée de l'Indus",
-          "text": "Une des premières grandes civilisations du monde. Avancées en urbanisme, art, métallurgie, et écriture."
-        },
-        "background": { "color": "#2f4f4f" },
-        "group": "Asie",
-        "territory": "Pakistan et Inde actuels",
-        "population": "5'000'000"
-      },
-      {
         "start_date": { "year": "-220" },
         "end_date": { "year": "280" },
         "text": {
           "headline": "Dynastie Han",
-          "text": "Seconde dynastie impériale de Chine, connue pour ses avancées en papeterie, astronomie, et cartographie."
+          "text": "Seconde dynastie impériale de Chine, connue pour ses avancées en papeterie, astronomie, et cartographie.<br><br>Les empereurs Wu et Guangwu sont parmi les dirigeants les plus célèbres de la dynastie Han. Ils ont étendu les frontières de la Chine et ont encouragé les progrès en sciences et technologies. Les Han ont inventé le papier, amélioré la cartographie, et fait des avancées en astronomie.<br><br>Leur alimentation comprenait du riz, du blé, des légumes, et du thé. Les loisirs incluaient la poésie, la musique, et les jeux de société. L'art Han est visible dans les sculptures en terre cuite, les peintures murales, et les céramiques. La dynastie Han a décliné en raison de troubles internes et de rébellions paysannes."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Chine",
@@ -287,7 +335,7 @@
         "end_date": { "year": "668" },
         "text": {
           "headline": "Trois Royaumes de Corée",
-          "text": "Comprenant Goguryeo, Baekje, et Silla, cette période a vu des progrès significatifs en culture, technologie, et politique."
+          "text": "Comprenant Goguryeo, Baekje, et Silla, cette période a vu des progrès significatifs en culture, technologie, et politique.<br><br>Les rois comme Gwanggaeto de Goguryeo, Seong de Baekje, et Jinheung de Silla sont parmi les dirigeants notables de cette période. Ils ont étendu leurs royaumes et ont encouragé les échanges culturels avec la Chine et le Japon.<br><br>Leur alimentation comprenait du riz, des légumes, des fruits de mer, et du kimchi. Les loisirs incluaient la musique, la danse, et les arts martiaux. L'art des Trois Royaumes est visible dans les sculptures en bronze, les céramiques, et les peintures murales. La période a pris fin avec l'unification de la Corée sous Silla."
         },
         "background": { "color": "#2f4f4f" },
         "group": "Extrême Orient",
@@ -295,14 +343,14 @@
         "population": "3'000'000"
       },
       {
-        "start_date": {"year": "-2700"},
-        "end_date": {"year": "-1450"},
+        "start_date": { "year": "-2700" },
+        "end_date": { "year": "-1450" },
         "text": {
           "headline": "Civilisation minoenne",
           "text": "La civilisation minoenne, qui a prospéré sur l'île de Crète et dans d'autres îles de la mer Égée entre environ -2700 et -1450, est l'une des civilisations les plus remarquables de l'âge du bronze.<br><br>Connue pour ses palais élaborés, tels que ceux de Knossos, Phaistos, Malia et Zakros, la civilisation minoenne a laissé une empreinte durable sur l'histoire de l'art et de l'architecture. Les Minoens ont développé des systèmes d'écriture sophistiqués, le Linéaire A et le Linéaire B.<br><br>Le Linéaire A, utilisé principalement pour des inscriptions religieuses et administratives, reste largement indéchiffré. Ce système d'écriture semble être une forme de proto-écriture, utilisée pour tenir des registres et peut-être pour des rituels religieux. Le Linéaire B, en revanche, a été déchiffré et s'est révélé être une forme archaïque de grec, utilisée principalement pour des documents administratifs.<br><br>Les palais minoens étaient des centres économiques, politiques et religieux, dotés de vastes entrepôts, de salles de réception, et de sanctuaires. Les fresques élaborées qui ornaient les murs de ces palais représentent des scènes de la vie quotidienne, des rituels religieux, et des activités sportives telles que le saut de taureau.<br><br>La religion minoenne semble avoir été centrée sur la déesse mère, souvent représentée avec des serpents, symboles de régénération et de protection. Les Minoens étaient également des marins et des commerçants habiles, établissant des réseaux commerciaux étendus à travers la Méditerranée, échangeant des produits comme l'huile d'olive, le vin, et le textile.<br><br>Leur régime alimentaire comprenait du poisson, des fruits de mer, des céréales, des olives, des figues, du miel, et des produits laitiers. La société minoenne semble avoir été relativement égalitaire, avec une place importante accordée aux femmes.<br><br>Les loisirs comprenaient des activités telles que la danse, la musique, et les jeux. Les Minoens excellaient également dans les arts décoratifs, comme la poterie, les bijoux, et la sculpture sur pierre.<br><br>Le déclin de la civilisation minoenne est souvent attribué à une série de catastrophes naturelles, telles que l'éruption du volcan de Santorin, suivies de l'invasion par les Mycéniens vers -1450."
         },
-        "background": {"color": "#556b2f"},
-        "group": "Europe",
+        "background": { "color": "#556b2f" },
+        "group": "Asie Mineure",
         "territory": "Grèce actuelle",
         "population": "80'000"
       }
