@@ -9,7 +9,33 @@
   <style>
     #timeline-embed {
       width: 100%;
-      height: 600px;
+      height: 100vh; /* Occupies full height of the viewport */
+    }
+    .tl-slide {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start; /* Aligns content to the top */
+      align-items: flex-start; /* Aligns content to the left */
+      padding: 20px; /* Adds some margin */
+      box-sizing: border-box;
+    }
+    .tl-slide-content {
+      width: 100% !important; /* Ensures content occupies full width */
+      max-width: 100% !important;
+      margin-top: 0; /* Removes any top margin */
+    }
+    .tl-text-content {
+      width: 100% !important; /* Ensures text content occupies full width */
+      text-align: left; /* Aligns text to the left */
+      margin-top: 0; /* Removes any top margin */
+    }
+    .tl-headline-date {
+      font-size: 40px !important; /* Increases font size for dates */
+      padding-left: 20px; /* Adds padding to the left */
+      padding-bottom: 20px; /* Adds padding to the bottom */
+    }
+    .tl-headline {
+      text-align: left; /* Aligns title to the left */
     }
   </style>
 </head>
@@ -17,30 +43,51 @@
   <div id="timeline-embed"></div>
   <script>
     const options = {
-      timenav_position: "top", // Position de la navigation
-      scale_factor: 0.5, // Facteur d'échelle
-      initial_zoom: 3, // Zoom initial
-      timenav_height_percentage: 25, // Hauteur de la navigation temporelle en pourcentage
-      duration: 1000, // Durée des animations en millisecondes
-      start_at_slide: 0 // Démarre à la première diapositive
+      timenav_position: "top", // Position the navigation at the top
+      scale_factor: 0.5, // Scale factor
+      initial_zoom: 3, // Initial zoom level
+      timenav_height_percentage: 25, // Height of the timeline navigation as a percentage
+      duration: 1000, // Animation duration in milliseconds
+      start_at_slide: 0 // Start at the first slide
     };
 
-    fetch("/timeline_data.json")
-      .then(response => response.json())
-      .then(data => {
-        if (data.timeline && data.timeline.events && data.timeline.events.length > 0) {
-          initializeTimeline(data.timeline);
-        } else {
-          console.error("La configuration de la frise n'a pas d'événements.");
-        }
-      })
-      .catch(error => console.error("Erreur lors du chargement des données de la frise:", error));
+    function loadTimelineData(lang) {
+      fetch(`/timeline_data_${lang}.json`)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          return response.json();
+        })
+        .then(data => {
+          if (data.timeline && data.timeline.events && data.timeline.events.length > 0) {
+            initializeTimeline(data.timeline);
+          } else {
+            console.error("The timeline configuration has no events.");
+          }
+        })
+        .catch(error => {
+          console.error("Error loading timeline data:", error);
+          // Load default language (English) if the specified language file is not found
+          if (lang !== 'en') {
+            loadTimelineData('en');
+          }
+        });
+    }
 
     function initializeTimeline(timelineData) {
       const timelineContainer = document.getElementById("timeline-embed");
       new TL.Timeline(timelineContainer, timelineData, options);
-      console.log("Frise chargée avec succès:", timelineData);
+      console.log("Timeline successfully loaded:", timelineData);
     }
+
+    // Detect user's language preference
+    const userLang = navigator.language || navigator.userLanguage;
+    const lang = userLang.split('-')[0]; // Use the first part of the language code (e.g., 'en' from 'en-US')
+
+    // Load the timeline data in the user's preferred language if available, otherwise default to English
+    loadTimelineData(lang);
+
   </script>
 </body>
 </html>
