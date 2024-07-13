@@ -1,6 +1,7 @@
 #timeline-embed {
   width: 100%;
   height: 100vh; /* Occupies full height of the viewport */
+  overflow: hidden; /* Prevents scrolling */
 }
 
 .burger-menu {
@@ -38,10 +39,14 @@
   text-align: left;
   cursor: pointer;
   font-size: 16px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  transition: background 0.3s, color 0.3s;
 }
 
 .menu-items button:hover {
   background: #f0f0f0;
+  color: #000;
 }
 
 .tl-slide {
@@ -49,13 +54,11 @@
   flex-direction: column;
   justify-content: flex-start; /* Aligns content to the top */
   align-items: flex-start; /* Aligns content to the left */
-  padding: 20px; /* Adds some margin */
   box-sizing: border-box;
 }
 
 .tl-slide-content {
-  width: 100% !important; /* Ensures content occupies full width */
-  max-width: 100% !important;
+  padding: 0px !important; /* Adds some margin */
   margin-top: 0; /* Removes any top margin */
 }
 
@@ -63,12 +66,13 @@
   width: 100% !important; /* Ensures text content occupies full width */
   text-align: left; /* Aligns text to the left */
   margin-top: 0; /* Removes any top margin */
+  padding-left: 0 !important; /* Removes left padding */
 }
 
 .tl-headline-date {
   font-size: 40px !important; /* Increases font size for dates */
-  padding-left: 20px; /* Adds padding to the left */
   padding-bottom: 20px; /* Adds padding to the bottom */
+  padding-left: 20px; /* Adds padding to the left */
 }
 
 .tl-headline {
@@ -82,18 +86,29 @@
 
 /* Responsive font sizes and padding */
 @media (max-width: 600px) {
+  .burger-menu {
+    font-size: 24px;
+    padding: 8px;
+  }
+  .menu-items {
+    top: 40px;
+    left: 5px;
+  }
+  .menu-items button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
   .tl-slide {
     padding: 10px; /* Reduce padding for small screens */
   }
-
   .tl-headline-date {
     font-size: 18px !important; /* Smaller font size for small screens */
-    padding-left: 0px; /* Removes padding to the left */
+    padding-left: 30px;
   }
 }
 
 @media (min-width: 601px) {
   .tl-headline-date {
-    padding-left: 20px; /* Adds padding to the left */
+    padding-top: 20px;
   }
 }
