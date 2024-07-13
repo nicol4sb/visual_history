@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Humanity timeline</title>
-    <link rel="stylesheet" href="styles.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Complete TimelineJS Example</title>
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
-    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-</head>
-<body>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div id="timeline-embed"></div>
-    <script src="script.js"></script>
-</body>
+    <div id="menu">
+      <div class="burger-menu" onclick="toggleMenu()">☰</div>
+      <div class="menu-items" id="menu-items">
+        <button onclick="selectTimeline('antiquity')">Antiquity</button>
+        <button onclick="selectTimeline('modern')">Modern Times</button>
+        <button onclick="selectTimeline('geological')">Geological History</button>
+      </div>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
 </html>

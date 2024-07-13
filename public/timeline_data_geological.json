@@ -1,0 +1,85 @@
+{
+    "timeline": {
+      "title": {
+        "text": {
+          "headline": "Geological History",
+          "text": "Significant events in Earth's geological history"
+        }
+      },
+      "events": [
+        {
+          "start_date": { "year": "-4600", "month": "1", "day": "1" },
+          "end_date": { "year": "-4000", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Formation of Earth",
+            "text": "Approximately 4.6 billion years ago, the Earth formed from the solar nebula. This period marked the beginning of Earth's geological history."
+          },
+          "background": { "color": "#ff6347" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        },
+        {
+          "start_date": { "year": "-2500", "month": "1", "day": "1" },
+          "end_date": { "year": "-1600", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Archean Eon",
+            "text": "Spanning from 4 billion to 2.5 billion years ago, the Archean Eon saw the formation of the first continents and the emergence of life in the form of simple bacteria."
+          },
+          "background": { "color": "#87cefa" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        },
+        {
+          "start_date": { "year": "-1600", "month": "1", "day": "1" },
+          "end_date": { "year": "-542", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Proterozoic Eon",
+            "text": "From 2.5 billion to 542 million years ago, the Proterozoic Eon was characterized by the buildup of atmospheric oxygen and the emergence of more complex life forms."
+          },
+          "background": { "color": "#3cb371" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        },
+        {
+          "start_date": { "year": "-541", "month": "1", "day": "1" },
+          "end_date": { "year": "-485", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Cambrian Explosion",
+            "text": "Approximately 541 million years ago, a rapid diversification of life forms occurred, known as the Cambrian Explosion. This period saw the emergence of many major groups of animals."
+          },
+          "background": { "color": "#ff7f50" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        },
+        {
+          "start_date": { "year": "-252", "month": "1", "day": "1" },
+          "end_date": { "year": "-201", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Triassic Period",
+            "text": "Spanning from 252 to 201 million years ago, the Triassic Period saw the rise of dinosaurs and the first mammals. It ended with a mass extinction event."
+          },
+          "background": { "color": "#4682b4" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        },
+        {
+          "start_date": { "year": "-66", "month": "1", "day": "1" },
+          "end_date": { "year": "0", "month": "1", "day": "1" },
+          "text": {
+            "headline": "Cenozoic Era",
+            "text": "Beginning 66 million years ago and continuing to the present, the Cenozoic Era is characterized by the dominance of mammals and the development of human civilizations."
+          },
+          "background": { "color": "#9acd32" },
+          "group": "Geological",
+          "territory": "N/A",
+          "population": "N/A"
+        }
+      ]
+    }
+  }
+  
