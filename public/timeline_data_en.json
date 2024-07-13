@@ -9,12 +9,13 @@
     "events": [
       {
         "start_date": { "year": "-3500" },
+        "end_date": { "year": "-2334" },
         "text": {
           "headline": "Civilisation sumérienne",
-          "text": "Émergence des premières cités-états en Mésopotamie. Les Sumériens ont développé l'écriture cunéiforme et les ziggurats. Décliné face aux Akkadiens vers -2334.<br><br>Les principales villes sumériennes incluent Ur, Uruk, et Eridu. Les Sumériens étaient gouvernés par des rois-prêtres, et chaque ville avait son propre dieu patron. Les Sumériens sont également célèbres pour leurs découvertes en mathématiques, astronomie et médecine. Ils utilisaient un système numérique basé sur 60, d'où nos 60 secondes dans une minute et 60 minutes dans une heure.<br><br>Leur alimentation comprenait de l'orge, du blé, des légumes, des fruits, et des produits laitiers. Ils fabriquaient également de la bière. L'art sumérien est représenté par des sculptures, des fresques et des sceaux-cylindres, souvent utilisés pour marquer des documents officiels."
+          "text": "Les Sumériens ont émergé comme la première grande civilisation de l'histoire humaine en Mésopotamie. Ils sont connus pour avoir inventé l'écriture cunéiforme, l'un des premiers systèmes d'écriture au monde, utilisé pour la première fois vers -3400.<br><br>Les Sumériens ont fondé plusieurs cités-États indépendantes comme Uruk, Ur, Lagash et Eridu. Chaque cité-État avait son propre gouvernement et des ziggurats, des temples massifs dédiés aux divinités locales. Le roi-prêtre était souvent le chef de la cité, exerçant à la fois des fonctions religieuses et politiques.<br><br>Les avancées technologiques des Sumériens incluent l'agriculture intensive avec des systèmes d'irrigation, des innovations en architecture comme les ziggurats, et des contributions en mathématiques et en astronomie.<br><br>La littérature sumérienne, comme l'épopée de Gilgamesh, l'une des plus anciennes œuvres littéraires connues, reflète leur riche culture et leur vision du monde. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. Ils utilisaient également la bière comme une boisson courante.<br><br>Leur art est visible dans les sculptures, les reliefs, et les objets en métal précieux. Les Sumériens ont finalement décliné face à l'ascension des Akkadiens vers -2334, lorsque Sargon d'Akkad a conquis les cités sumériennes et fondé le premier empire multiethnique."
         },
         "background": { "color": "#8b4513" },
-        "group": "Asie Mineure",
+        "group": "Mésopotamie",
         "territory": "Irak actuel",
         "population": "50'000"
       },
@@ -23,12 +24,24 @@
         "end_date": { "year": "-2154" },
         "text": {
           "headline": "Empire d'Akkad",
-          "text": "Premier empire multiethnique sous Sargon d'Akkad. Centre administratif en Mésopotamie. Décliné après la mort de Sargon.<br><br>Sargon le Grand est l'un des plus célèbres dirigeants de l'Empire d'Akkad. Il est connu pour avoir unifié les cités-états sumériennes sous une seule règle. L'Empire d'Akkad a fait des progrès significatifs en matière d'administration, de l'écriture et de l'art. Ils ont créé des sculptures élaborées et des reliefs en pierre.<br><br>Les Akkadiens avaient une alimentation similaire à celle des Sumériens, avec une forte dépendance à l'agriculture et à l'élevage. L'art et la culture akkadiens étaient influencés par les Sumériens, mais ils ont également introduit leurs propres styles et techniques."
+          "text": "L'empire d'Akkad, fondé par Sargon d'Akkad vers -2334, est le premier empire multiethnique connu de l'histoire. Sargon a unifié plusieurs cités-États sumériennes et étendu son empire à travers la Mésopotamie, établissant l'un des premiers grands empires de l'histoire.<br><br>Sargon d'Akkad est l'une des figures les plus célèbres de l'antiquité. Il est connu pour ses campagnes militaires réussies, ses réformes administratives et la fondation de la ville d'Akkad, qui est devenue le centre de l'empire. L'administration akkadiane était très centralisée, avec des satrapes (gouverneurs) nommés pour gérer différentes régions de l'empire.<br><br>Les Akkadiens ont propagé la culture, la langue et l'écriture cunéiforme à travers leurs vastes territoires. Ils ont également fait des avancées en art, en architecture et en technologie. Leurs artisans étaient connus pour leurs sculptures, leurs reliefs et leurs objets en métal précieux.<br><br>Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. L'empire d'Akkad a décliné après la mort de Sargon, affaibli par des rébellions internes et des invasions extérieures. L'empire s'est effondré vers -2154, laissant place à la montée de Babylone."
         },
         "background": { "color": "#8b4513" },
-        "group": "Asie Mineure",
+        "group": "Mésopotamie",
         "territory": "Irak actuel",
         "population": "100'000"
+      },
+      {
+        "start_date": { "year": "-1792" },
+        "end_date": { "year": "-1750" },
+        "text": {
+          "headline": "Règne de Hammurabi",
+          "text": "Hammurabi, l'un des rois les plus célèbres de Babylone, a régné de -1792 à -1750. Il est surtout connu pour le Code de Hammurabi, l'un des plus anciens systèmes de lois écrites. Hammurabi a unifié la Mésopotamie sous son règne, établissant Babylone comme une puissance dominante.<br><br>Son code de lois couvrait divers aspects de la vie, y compris les droits de propriété, le commerce, la famille et les crimes, et est gravé sur une stèle de pierre. La ville de Babylone, avec ses célèbres jardins suspendus et la tour de Babel, est devenue un centre culturel et commercial majeur sous son règne.<br><br>Les Babyloniens ont fait des avancées significatives en astronomie, en mathématiques (avec le système sexagésimal), et en médecine. Leur religion et leur mythologie, incluant des textes comme l'Enuma Elish, ont eu une grande influence sur les cultures voisines.<br><br>Les Babyloniens utilisaient l'écriture cunéiforme, héritée des Sumériens, pour consigner leurs lois, leurs transactions commerciales et leurs œuvres littéraires. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson.<br><br>L'art babylonien est célèbre pour ses reliefs, ses sculptures et ses mosaïques. La chute de Babylone est survenue après l'invasion des Perses en -539, marquant la fin de l'empire babylonien."
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Mésopotamie",
+        "territory": "Irak actuel",
+        "population": "200'000"
       },
       {
         "start_date": { "year": "-3100" },
@@ -101,6 +114,18 @@
         "group": "Europe",
         "territory": "Grèce actuelle",
         "population": "150'000"
+      },
+      {
+        "start_date": { "year": "-605" },
+        "end_date": { "year": "-562" },
+        "text": {
+          "headline": "Civilisation néo-babylonienne",
+          "text": "La porte d'Ishtar, construite sous le règne de Nabuchodonosor II, est l'une des merveilles architecturales de la période néo-babylonienne. Située à Babylone, dans l'actuel Irak, elle faisait partie des remparts de la ville et servait de passage cérémoniel pour les processions religieuses et militaires.<br><br>Nabuchodonosor II, célèbre roi de Babylone, a régné de 605 à 562 avant J.-C. Son règne est marqué par de grandes réalisations architecturales et des campagnes militaires victorieuses. Il a renforcé et embelli Babylone, en construisant des monuments impressionnants comme la porte d'Ishtar, les jardins suspendus (l'une des Sept Merveilles du monde antique) et la grande ziggourat dédiée à Marduk.<br><br>La porte d'Ishtar est particulièrement connue pour ses décorations en briques émaillées représentant des dragons (symboles de Marduk) et des taureaux (symboles d'Adad). Ces motifs colorés et détaillés témoignent de l'habileté des artisans babyloniens et de la richesse culturelle de l'époque.<br><br>Babylone était une cité prospère et puissante, centre politique, économique et culturel de la région. Les habitants de Babylone profitaient d'un mode de vie sophistiqué, avec des avancées en astronomie, mathématiques, médecine et littérature. Le commerce florissait, avec des échanges de biens tels que les épices, les tissus, les métaux précieux et les objets d'art.<br><br>Le régime alimentaire des Babyloniens comprenait des céréales, des dattes, des légumes, des fruits, du poisson et de la viande. La cuisine babylonienne était variée et riche en saveurs, utilisant des herbes et des épices pour assaisonner les plats.<br><br>La religion occupait une place centrale dans la vie des Babyloniens, avec un panthéon de dieux et de déesses, des rituels complexes et des temples majestueux. La musique, la danse et les festivals religieux étaient également des aspects importants de la culture babylonienne.<br><br>Après la mort de Nabuchodonosor II, Babylone connut une période de déclin, avant d'être finalement conquise par l'Empire perse en 539 avant J.-C."
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Asie Mineure",
+        "territory": "Irak actuel",
+        "population": "200'000"
       },
       {
         "start_date": { "year": "-27" },
@@ -295,16 +320,16 @@
         "population": "20'000'000"
       },
       {
-        "start_date": { "year": "753" },
+        "start_date": { "year": "395" },
         "end_date": { "year": "476" },
         "text": {
-          "headline": "Empire romain occidental",
-          "text": "République romaine devient un empire. Conquêtes militaires, Pax Romana et christianisme. Décliné par les invasions barbares.<br><br>Jules César et Auguste sont parmi les dirigeants les plus célèbres de l'Empire romain occidental. Jules César, général et dictateur, a étendu les frontières de l'empire en conquérant la Gaule. Son assassinat en 44 avant J.-C. a marqué un tournant dans l'histoire romaine.<br><br>Auguste, son fils adoptif, est devenu le premier empereur et a inauguré la Pax Romana, une période de paix et de prospérité qui a duré deux siècles. Les Romains ont fait des progrès significatifs en ingénierie, droit et gouvernance. Leur alimentation comprenait du pain, de l'huile d'olive, du vin, des légumes et des viandes.<br><br>Les loisirs incluaient les jeux de gladiateurs, les bains publics et le théâtre. L'art romain est visible dans les sculptures, les mosaïques et les architectures grandioses comme le Colisée et le Panthéon. L'Empire romain occidental a décliné en raison de problèmes internes, de corruption, et des invasions barbares au 5ème siècle."
-        },
-        "background": { "color": "#8b0000" },
-        "group": "Europe",
-        "territory": "Europe occidentale",
-        "population": "30'000'000"
+          "headline": "Empire romain d'Occident",
+          "text": "L'Empire romain d'Occident, officiellement établi en 395 après J.-C. après la division de l'Empire romain en deux parties distinctes, a existé jusqu'à sa chute en 476 après J.-C. Cette période a été marquée par de nombreux défis, notamment des invasions barbares, des luttes internes et une économie en déclin.<br><br>Les empereurs occidentaux, tels qu'Honorius, Valentinien III et Romulus Augustule (le dernier empereur), ont souvent lutté pour maintenir le contrôle face aux incursions des tribus germaniques et autres peuples barbares. L'influence de généraux puissants, comme Flavius Stilicon, a également marqué cette période.<br><br>La société romaine occidentale était complexe et diversifiée, avec une hiérarchie sociale bien définie. La vie urbaine était centrée autour des villes fortifiées, des villas rurales et des domaines agricoles. Les citoyens romains jouissaient de bains publics, d'arènes, de théâtres et de temples.<br><br>Le régime alimentaire romain comprenait des céréales, du pain, de l'huile d'olive, des légumes, des fruits, du poisson et de la viande. Les repas étaient souvent accompagnés de vin, et les banquets luxueux étaient courants parmi les élites.<br><br>Les Romains de cette époque pratiquaient une religion polythéiste avant l'adoption du christianisme comme religion d'État sous l'empereur Constantin. Les rituels religieux, les festivals et les sacrifices étaient des aspects importants de la vie religieuse.<br><br>Les arts et la culture romains ont prospéré, avec des avancées en architecture, en sculpture et en littérature. Les constructions monumentales, comme les aqueducs, les routes et les amphithéâtres, témoignent de l'ingéniosité romaine.<br><br>Malgré les efforts pour préserver l'empire, l'Empire romain d'Occident a finalement succombé aux invasions barbares, notamment avec le sac de Rome par les Wisigoths en 410 et par les Vandales en 455. En 476, le chef germanique Odoacre a déposé le dernier empereur, Romulus Augustule, marquant la fin de l'Empire romain d'Occident.<br><br>Territoire: Europe occidentale",
+          "background": { "color": "#8b0000" },
+          "group": "Europe",
+          "territory": "Europe occidentale",
+          "population": "30'000'000"
+        }
       },
       {
         "start_date": { "year": "-220" },
