@@ -69,6 +69,19 @@
       },
       {
         "start_date": { "year": "-500" },
+        "end_date": { "year": "300" },
+        "text": {
+          "headline": "Période Yayoi au Japon",
+          "text": "La période Yayoi (environ -500 à 300 après J.-C.) est une époque charnière de l'histoire japonaise, marquant la transition de la culture Jomon à une société agraire plus structurée. Cette période voit l'introduction de l'agriculture rizicole irriguée, apportant des changements significatifs dans l'organisation sociale et économique.<br><br>La culture Yayoi se caractérise par l'utilisation de la poterie Yayoi, qui est plus fine et plus fonctionnelle que celle de la période Jomon. Les villages Yayoi étaient généralement situés dans des zones favorables à la riziculture, notamment les plaines et les vallées fertiles. Les habitations étaient souvent construites sur pilotis pour se protéger des inondations.<br><br>Les Yayoi pratiquaient également la métallurgie, utilisant le bronze et le fer pour fabriquer des outils, des armes et des objets rituels. L'introduction de ces métaux, probablement via des contacts avec la péninsule coréenne et la Chine, a conduit à des avancées technologiques et à des transformations sociales.<br><br>Les sociétés Yayoi étaient plus hiérarchisées que celles de la période Jomon, avec des preuves archéologiques indiquant l'existence de chefs et de classes sociales distinctes. Les tombes de cette période, souvent des kofun (tumulus), contiennent des objets funéraires tels que des miroirs en bronze, des armes et des bijoux, témoignant du statut des individus enterrés.<br><br>La religion et les rituels occupaient une place importante dans la culture Yayoi. Des sites de culte et des offrandes rituelles ont été découverts, indiquant des pratiques religieuses complexes. La vénération des ancêtres et des divinités de la nature était probablement courante.<br><br>Les relations avec les cultures voisines, notamment la Corée et la Chine, ont influencé le développement de la culture Yayoi. Les échanges commerciaux et culturels ont permis l'introduction de nouvelles technologies et idées, contribuant à l'évolution rapide de la société japonaise.<br><br>Territoire: Japon actuel"
+        },
+        "background": { "color": "#2f4f4f" },
+        "group": "Extrême Orient",
+        "territory": "Japon actuel",
+        "population": "1'000'000"
+      },
+      
+      {
+        "start_date": { "year": "-500" },
         "end_date": { "year": "-323" },
         "text": {
           "headline": "La Grèce classique",
