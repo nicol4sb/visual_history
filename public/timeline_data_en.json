@@ -44,6 +44,54 @@
         "population": "200'000"
       },
       {
+        "start_date": { "year": "-1894" },
+        "end_date": { "year": "-539" },
+        "text": {
+          "headline": "Civilisation babylonienne",
+          "text": "La civilisation babylonienne est l'une des plus emblématiques de la Mésopotamie, avec une histoire qui s'étend de -1894 à -539. Fondée par les Amorites, Babylone a rapidement émergé comme une puissance régionale sous le règne de rois tels que Sumu-abum et Hammurabi.<br><br>Hammurabi, l'un des rois les plus célèbres de Babylone, a régné de -1792 à -1750. Il est surtout connu pour le Code de Hammurabi, l'un des plus anciens systèmes de lois écrites. Hammurabi a unifié la Mésopotamie sous son règne, établissant Babylone comme une puissance dominante. Son code de lois couvrait divers aspects de la vie, y compris les droits de propriété, le commerce, la famille et les crimes, et est gravé sur une stèle de pierre.<br><br>La ville de Babylone, avec ses célèbres jardins suspendus et la tour de Babel, est devenue un centre culturel et commercial majeur. Les Babyloniens ont fait des avancées significatives en astronomie, en mathématiques (avec le système sexagésimal), et en médecine. Leur religion et leur mythologie, incluant des textes comme l'Enuma Elish, ont eu une grande influence sur les cultures voisines.<br><br>Après la mort de Hammurabi, Babylone a connu des périodes de déclin et de renaissance. Sous le règne de Nabuchodonosor II (604-562 avant J.-C.), Babylone a atteint son apogée. Nabuchodonosor est connu pour avoir reconstruit Babylone, embellissant la ville avec des constructions magnifiques telles que la porte d'Ishtar, les jardins suspendus (considérés comme l'une des sept merveilles du monde antique), et le grand ziggurat, souvent associé à la tour de Babel.<br><br>Les Babyloniens utilisaient l'écriture cunéiforme, héritée des Sumériens, pour consigner leurs lois, leurs transactions commerciales et leurs œuvres littéraires. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. L'art babylonien est célèbre pour ses reliefs, ses sculptures et ses mosaïques.<br><br>Malgré ses réussites, Babylone a finalement succombé aux forces extérieures. En -539, la ville est conquise par Cyrus le Grand de Perse, marquant la fin de l'empire babylonien. Cette chute a signalé le début de la domination perse en Mésopotamie, mais l'héritage de Babylone a perduré dans l'histoire et la culture de la région.<br><br>Territoire: Irak actuel"
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Mésopotamie",
+        "territory": "Irak actuel",
+        "population": "200'000"
+      },
+      {
+        "start_date": { "year": "-550" },
+        "end_date": { "year": "-330" },
+        "text": {
+          "headline": "Empire perse achéménide",
+          "text": "L'Empire perse achéménide, fondé par Cyrus le Grand en -550, est l'un des plus grands et des plus influents empires de l'histoire ancienne. S'étendant de l'Indus à la mer Égée, il a marqué son époque par sa tolérance religieuse, son administration efficace et ses grandes infrastructures.<br><br>Cyrus le Grand a unifié les tribus perses et a conquis l'Empire mède, le royaume de Lydie et Babylone. Son règne est reconnu pour sa clémence envers les peuples conquis et la libération des Juifs de la captivité babylonienne.<br><br>Son successeur, Darius Ier, a réorganisé l'empire en provinces administratives appelées satrapies, chacune gouvernée par un satrape. Darius a également standardisé les poids et mesures, introduit une monnaie commune et développé un vaste réseau de routes, dont la célèbre Route royale, facilitant le commerce et la communication.<br><br>Les Perses ont construit des monuments impressionnants comme la capitale Persepolis, où les arts et l'architecture florissaient. Le palais de Darius et les reliefs sculptés de la terrasse de l'Apadana témoignent de la grandeur de l'empire.<br><br>La religion zoroastrienne, avec Ahura Mazda comme dieu suprême, a influencé l'empire, prônant le dualisme entre le bien et le mal. La tolérance religieuse était une marque distinctive de l'administration perse, permettant aux différentes cultures et religions de coexister.<br><br>Malgré ses réalisations, l'empire a subi des défaites contre les cités-états grecques pendant les guerres médiques. Xerxès Ier, successeur de Darius, a été vaincu lors des batailles de Salamine et de Platées. Finalement, l'empire a été conquis par Alexandre le Grand en -330, marquant la fin de la domination perse et le début de l'ère hellénistique.<br><br>L'Empire perse achéménide a laissé un héritage durable dans les domaines de l'administration, de l'infrastructure et de la culture, influençant les civilisations qui ont suivi.<br><br>Territoire: Iran actuel, Irak, Turquie, Égypte, Pakistan"
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Mésopotamie",
+        "territory": "Iran actuel, Irak, Turquie, Égypte, Pakistan",
+        "population": "35'000'000"
+      },
+      {
+        "start_date": { "year": "-500" },
+        "end_date": { "year": "-323" },
+        "text": {
+          "headline": "La Grèce classique",
+          "text": "La période classique de la Grèce (environ -500 à -323) est marquée par des réalisations culturelles, philosophiques et politiques qui ont profondément influencé la civilisation occidentale. Elle débute avec les guerres médiques, où les cités-états grecques, notamment Athènes et Sparte, s'unissent pour repousser l'invasion perse.<br><br>La démocratie athénienne, sous la direction de Périclès, atteint son apogée au Ve siècle avant J.-C. Athènes devient un centre culturel et intellectuel, avec des contributions majeures en philosophie, théâtre, art et architecture. Socrate, Platon et Aristote, trois des philosophes les plus influents de l'histoire, ont vécu et enseigné à Athènes.<br><br>La période classique voit également l'émergence des grandes tragédies et comédies grecques, écrites par des dramaturges tels qu'Eschyle, Sophocle et Aristophane. Les temples et monuments, comme le Parthénon, témoignent de l'excellence artistique et architecturale de l'époque.<br><br>La guerre du Péloponnèse (431-404 avant J.-C.) entre Athènes et Sparte, ainsi que leurs alliés respectifs, affaiblit les cités-états grecques. Cette guerre longue et destructrice se termine par la victoire de Sparte, mais laisse la Grèce fragmentée et vulnérable.<br><br>En parallèle, la Macédoine, sous le règne de Philippe II, émerge comme une puissance dominante. Philippe réussit à unifier la Grèce par la force et la diplomatie, posant les bases de l'expansion future sous son fils, Alexandre le Grand.<br><br>La fin de la période classique est marquée par les conquêtes d'Alexandre le Grand, qui étend l'influence grecque à travers le Moyen-Orient, l'Égypte et jusqu'en Inde, inaugurant l'ère hellénistique. La culture, la langue et les idées grecques se diffusent largement, laissant un héritage durable dans les régions conquises.<br><br>Territoire: Grèce actuelle"
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Europe",
+        "territory": "Grèce actuelle",
+        "population": "1'500'000"
+      },    
+      {
+        "start_date": { "year": "-336" },
+        "end_date": { "year": "-323" },
+        "text": {
+          "headline": "Empire de Macédoine et Alexandre le Grand",
+          "text": "L'Empire de Macédoine, sous la direction d'Alexandre le Grand, est l'un des plus grands et des plus influents de l'histoire. Alexandre est monté sur le trône en -336 après l'assassinat de son père, Philippe II de Macédoine. Connu pour son génie militaire et ses vastes conquêtes, Alexandre a créé un empire qui s'étendait de la Grèce à l'Inde en seulement 13 ans.<br><br>Alexandre le Grand a d'abord consolidé son pouvoir en Grèce et a réprimé les rébellions dans les villes-états grecques. Ensuite, il s'est tourné vers l'empire perse, qu'il a vaincu lors des batailles décisives de Granique, Issos et Gaugamèles. Après la défaite de Darius III, roi des Perses, Alexandre a été accueilli comme libérateur en Égypte et a fondé la ville d'Alexandrie.<br><br>Alexandre a poursuivi ses conquêtes vers l'est, traversant les montagnes de l'Hindou Kouch et atteignant l'Inde. Ses campagnes en Inde ont été marquées par la célèbre bataille de l'Hydaspe contre le roi Porus, après laquelle il a été contraint de retourner à Babylone en raison de la fatigue de ses troupes.<br><br>Alexandre n'était pas seulement un conquérant, mais aussi un visionnaire qui a encouragé la fusion des cultures grecque et orientale. Il a adopté des coutumes perses, s'est marié avec des princesses orientales et a encouragé ses soldats à faire de même. Cette politique de fusion culturelle, connue sous le nom d'hellénisme, a laissé un impact durable sur les régions conquises.<br><br>La vie quotidienne sous Alexandre était influencée par une combinaison de traditions grecques et orientales. La société était cosmopolite, avec une grande diversité de langues, de religions et de coutumes. Les arts ont prospéré, avec des influences grecques se mêlant aux styles locaux dans des domaines tels que la sculpture, la peinture et l'architecture.<br><br>La mort d'Alexandre en -323 à l'âge de 32 ans a laissé un vide de pouvoir, entraînant la division de son empire parmi ses généraux, les Diadoques. Bien que l'empire se soit fragmenté, l'hellénisme a continué à influencer profondément les cultures locales pendant des siècles.<br><br>Alexandre le Grand reste une figure emblématique, célébrée pour ses exploits militaires et son rôle dans la diffusion de la culture grecque à travers le monde antique.<br><br>Territoire: Grèce actuelle, Égypte, Perse, Inde"
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Asie Mineure",
+        "territory": "Grèce actuelle, Égypte, Perse, Inde",
+        "population": "25'000'000"
+      },      
+      {
         "start_date": { "year": "-3100" },
         "end_date": { "year": "-2181" },
         "text": {
