@@ -6,8 +6,30 @@ const options = {
     start_at_slide: 0, // Start at the first slide
 };
 
+let translations = {};
+
+function loadTranslations(lang) {
+    return fetch(`/translations/translations_${lang}.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            translations = data;
+        })
+        .catch(error => {
+            console.error("Error loading translations:", error);
+            // Fallback to English if the specified language file is not found
+            if (lang !== "en") {
+                return loadTranslations("en");
+            }
+        });
+}
+
 function loadTimelineData(type, lang) {
-    fetch(`/timeline_data_${type}_${lang}.json`)
+    fetch(`/data/timeline_data_${type}_${lang}.json`)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
@@ -16,6 +38,7 @@ function loadTimelineData(type, lang) {
         })
         .then(data => {
             if (data.timeline && data.timeline.events && data.timeline.events.length > 0) {
+                appendTerritoryToText(data.timeline.events, lang);
                 initializeTimeline(data.timeline);
             } else {
                 console.error("The timeline configuration has no events.");
@@ -29,6 +52,15 @@ function loadTimelineData(type, lang) {
                 loadTimelineData(type, "en");
             }
         });
+}
+
+function appendTerritoryToText(events, lang) {
+    const territoryTranslation = translations.territory || "Territory";
+    events.forEach(event => {
+        if (event.territory) {
+            event.text.text += `<br><br><strong>${territoryTranslation}:</strong> ${event.territory}`;
+        }
+    });
 }
 
 function initializeTimeline(timelineData) {
@@ -93,6 +125,8 @@ document.addEventListener("DOMContentLoaded", () => {
             console.error("Error fetching timeline files:", error);
         });
 
-    // Load default timeline (Antiquity)
-    loadTimelineData("antiquity", userLang);
+    // Load translations and then the default timeline (Antiquity)
+    loadTranslations(userLang).then(() => {
+        loadTimelineData("antiquity", userLang);
+    });
 });

@@ -64,29 +64,33 @@ body {
   flex-direction: column;
   justify-content: flex-start; /* Aligns content to the top */
   align-items: flex-start; /* Aligns content to the left */
+  width: 100%; /* Ensure the slide occupies full width */
+  height: 100%; /* Ensure the slide occupies full height */
   box-sizing: border-box;
 }
 
 .tl-slide-content {
-  padding: 0px !important; /* Adds some margin */
-  margin-top: 0; /* Removes any top margin */
+  width: 100%; /* Ensure the slide content occupies full width */
+  height: 100%; /* Ensure the slide content occupies full height */
+  padding: 0px !important; /* Remove padding */
+  margin-top: 0; /* Remove any top margin */
 }
 
 .tl-text-content {
-  width: 100% !important; /* Ensures text content occupies full width */
-  text-align: left; /* Aligns text to the left */
-  margin-top: 0; /* Removes any top margin */
-  padding-left: 0 !important; /* Removes left padding */
+  width: 100% !important; /* Ensure text content occupies full width */
+  text-align: left; /* Align text to the left */
+  margin-top: 0; /* Remove any top margin */
+  padding-left: 0 !important; /* Remove left padding */
 }
 
 .tl-headline-date {
-  font-size: 40px !important; /* Increases font size for dates */
-  padding-bottom: 20px; /* Adds padding to the bottom */
-  padding-left: 20px; /* Adds padding to the left */
+  font-size: 40px !important; /* Increase font size for dates */
+  padding-bottom: 20px; /* Add padding to the bottom */
+  padding-left: 20px; /* Add padding to the left */
 }
 
 .tl-headline {
-  text-align: left; /* Aligns title to the left */
+  text-align: left; /* Align title to the left */
 }
 
 /* Increase font size for slide navigation title */
@@ -119,6 +123,6 @@ body {
 
 @media (min-width: 601px) {
   .tl-headline-date {
-    padding-top: 20px;
+    padding-top: 30px;
   }
 }
