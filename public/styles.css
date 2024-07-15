@@ -87,6 +87,8 @@ body {
   font-size: 40px !important; /* Increase font size for dates */
   padding-bottom: 20px; /* Add padding to the bottom */
   padding-left: 20px; /* Add padding to the left */
+  word-wrap: break-word; /* Ensure long dates wrap to the next line */
+  line-height: 1.2 !important; /* Increase line height to prevent overlap */
 }
 
 .tl-headline {

@@ -2,8 +2,8 @@
   "timeline": {
     "title": {
       "text": {
-        "headline": "Antiquité classique, Grêce et Rome",
-        "text": "Civilisations et progrès de l'humanité en un clin d'oeil"
+        "headline": "Classical Antiquity, Greece and Rome",
+        "text": "Civilizations and progress of humanity at a glance"
       }
     },
     "events": [
@@ -11,49 +11,49 @@
         "start_date": { "year": "-500" },
         "end_date": { "year": "-323" },
         "text": {
-          "headline": "La Grèce classique",
-          "text": "La période classique de la Grèce (environ -500 à -323) est marquée par des réalisations culturelles, philosophiques et politiques qui ont profondément influencé la civilisation occidentale. Elle débute avec les guerres médiques, où les cités-états grecques, notamment Athènes et Sparte, s'unissent pour repousser l'invasion perse.<br><br>La démocratie athénienne, sous la direction de Périclès, atteint son apogée au Ve siècle avant J.-C. Athènes devient un centre culturel et intellectuel, avec des contributions majeures en philosophie, théâtre, art et architecture. Socrate, Platon et Aristote, trois des philosophes les plus influents de l'histoire, ont vécu et enseigné à Athènes.<br><br>La période classique voit également l'émergence des grandes tragédies et comédies grecques, écrites par des dramaturges tels qu'Eschyle, Sophocle et Aristophane. Les temples et monuments, comme le Parthénon, témoignent de l'excellence artistique et architecturale de l'époque.<br><br>La guerre du Péloponnèse (431-404 avant J.-C.) entre Athènes et Sparte, ainsi que leurs alliés respectifs, affaiblit les cités-états grecques. Cette guerre longue et destructrice se termine par la victoire de Sparte, mais laisse la Grèce fragmentée et vulnérable.<br><br>En parallèle, la Macédoine, sous le règne de Philippe II, émerge comme une puissance dominante. Philippe réussit à unifier la Grèce par la force et la diplomatie, posant les bases de l'expansion future sous son fils, Alexandre le Grand.<br><br>La fin de la période classique est marquée par les conquêtes d'Alexandre le Grand, qui étend l'influence grecque à travers le Moyen-Orient, l'Égypte et jusqu'en Inde, inaugurant l'ère hellénistique. La culture, la langue et les idées grecques se diffusent largement, laissant un héritage durable dans les régions conquises.<br><br>Territoire: Grèce actuelle"
+          "headline": "Classical Greece",
+          "text": "The Classical period of Greece (approximately 500 to 323 BCE) is marked by cultural, philosophical, and political achievements that profoundly influenced Western civilization. It begins with the Persian Wars, where Greek city-states, notably Athens and Sparta, unite to repel the Persian invasion.<br><br>Athenian democracy, under the leadership of Pericles, reaches its peak in the 5th century BCE. Athens becomes a cultural and intellectual center, with major contributions in philosophy, theater, art, and architecture. Socrates, Plato, and Aristotle, three of the most influential philosophers in history, lived and taught in Athens.<br><br>The Classical period also sees the emergence of great Greek tragedies and comedies, written by playwrights such as Aeschylus, Sophocles, and Aristophanes. Temples and monuments, like the Parthenon, testify to the artistic and architectural excellence of the era.<br><br>The Peloponnesian War (431-404 BCE) between Athens and Sparta, along with their respective allies, weakens the Greek city-states. This long and destructive war ends with Sparta's victory but leaves Greece fragmented and vulnerable.<br><br>Meanwhile, Macedonia, under the reign of Philip II, emerges as a dominant power. Philip succeeds in unifying Greece through force and diplomacy, laying the foundations for future expansion under his son, Alexander the Great.<br><br>The end of the Classical period is marked by the conquests of Alexander the Great, who extends Greek influence across the Middle East, Egypt, and as far as India, inaugurating the Hellenistic era. Greek culture, language, and ideas spread widely, leaving a lasting legacy in the conquered regions.<br><br>Territory: Modern-day Greece"
         },
         "background": { "color": "#8b0000" },
-        "group": "Asie Mineure",
-        "territory": "Grèce actuelle",
-        "population": "1'500'000"
-      },    
+        "group": "Asia Minor",
+        "territory": "Modern-day Greece",
+        "population": "1,500,000"
+      },
       {
         "start_date": { "year": "-336" },
         "end_date": { "year": "-323" },
         "text": {
-          "headline": "Empire de Macédoine et Alexandre le Grand",
-          "text": "L'Empire de Macédoine, sous la direction d'Alexandre le Grand, est l'un des plus grands et des plus influents de l'histoire. Alexandre est monté sur le trône en -336 après l'assassinat de son père, Philippe II de Macédoine. Connu pour son génie militaire et ses vastes conquêtes, Alexandre a créé un empire qui s'étendait de la Grèce à l'Inde en seulement 13 ans.<br><br>Alexandre le Grand a d'abord consolidé son pouvoir en Grèce et a réprimé les rébellions dans les villes-états grecques. Ensuite, il s'est tourné vers l'empire perse, qu'il a vaincu lors des batailles décisives de Granique, Issos et Gaugamèles. Après la défaite de Darius III, roi des Perses, Alexandre a été accueilli comme libérateur en Égypte et a fondé la ville d'Alexandrie.<br><br>Alexandre a poursuivi ses conquêtes vers l'est, traversant les montagnes de l'Hindou Kouch et atteignant l'Inde. Ses campagnes en Inde ont été marquées par la célèbre bataille de l'Hydaspe contre le roi Porus, après laquelle il a été contraint de retourner à Babylone en raison de la fatigue de ses troupes.<br><br>Alexandre n'était pas seulement un conquérant, mais aussi un visionnaire qui a encouragé la fusion des cultures grecque et orientale. Il a adopté des coutumes perses, s'est marié avec des princesses orientales et a encouragé ses soldats à faire de même. Cette politique de fusion culturelle, connue sous le nom d'hellénisme, a laissé un impact durable sur les régions conquises.<br><br>La vie quotidienne sous Alexandre était influencée par une combinaison de traditions grecques et orientales. La société était cosmopolite, avec une grande diversité de langues, de religions et de coutumes. Les arts ont prospéré, avec des influences grecques se mêlant aux styles locaux dans des domaines tels que la sculpture, la peinture et l'architecture.<br><br>La mort d'Alexandre en -323 à l'âge de 32 ans a laissé un vide de pouvoir, entraînant la division de son empire parmi ses généraux, les Diadoques. Bien que l'empire se soit fragmenté, l'hellénisme a continué à influencer profondément les cultures locales pendant des siècles.<br><br>Alexandre le Grand reste une figure emblématique, célébrée pour ses exploits militaires et son rôle dans la diffusion de la culture grecque à travers le monde antique.<br><br>Territoire: Grèce actuelle, Égypte, Perse, Inde"
+          "headline": "Macedonian Empire and Alexander the Great",
+          "text": "The Macedonian Empire, under the leadership of Alexander the Great, is one of the largest and most influential in history. Alexander ascended the throne in 336 BCE after the assassination of his father, Philip II of Macedonia. Known for his military genius and vast conquests, Alexander created an empire that stretched from Greece to India in just 13 years.<br><br>Alexander the Great first consolidated his power in Greece and suppressed rebellions in the Greek city-states. Then he turned to the Persian Empire, which he defeated in decisive battles at Granicus, Issus, and Gaugamela. After the defeat of Darius III, king of the Persians, Alexander was welcomed as a liberator in Egypt and founded the city of Alexandria.<br><br>Alexander continued his conquests eastward, crossing the Hindu Kush mountains and reaching India. His campaigns in India were marked by the famous Battle of the Hydaspes against King Porus, after which he was forced to return to Babylon due to the fatigue of his troops.<br><br>Alexander was not only a conqueror but also a visionary who encouraged the fusion of Greek and Eastern cultures. He adopted Persian customs, married Eastern princesses, and encouraged his soldiers to do the same. This policy of cultural fusion, known as Hellenism, left a lasting impact on the conquered regions.<br><br>Daily life under Alexander was influenced by a combination of Greek and Eastern traditions. Society was cosmopolitan, with great diversity in languages, religions, and customs. The arts flourished, with Greek influences blending with local styles in areas such as sculpture, painting, and architecture.<br><br>Alexander's death in 323 BCE at the age of 32 left a power vacuum, leading to the division of his empire among his generals, the Diadochi. Although the empire fragmented, Hellenism continued to profoundly influence local cultures for centuries.<br><br>Alexander the Great remains an iconic figure, celebrated for his military exploits and his role in spreading Greek culture throughout the ancient world.<br><br>Territory: Modern-day Greece, Egypt, Persia, India"
         },
         "background": { "color": "#8b4513" },
-        "group": "Asie Mineure",
-        "territory": "Grèce actuelle, Égypte, Perse, Inde",
-        "population": "25'000'000"
-      },      
+        "group": "Asia Minor",
+        "territory": "Modern-day Greece, Egypt, Persia, India",
+        "population": "25,000,000"
+      },
       {
         "start_date": { "year": "-1600" },
         "end_date": { "year": "-1100" },
         "text": {
-          "headline": "Civilisation mycénienne",
-          "text": "Dominante en Grèce continentale et îles de la mer Égée, la civilisation mycénienne est connue pour l'Iliade et la guerre de Troie. Les Mycéniens étaient gouvernés par des rois puissants, tels qu'Agamemnon, et leur société était militariste. Ils ont construit des forteresses massives comme celles de Mycènes et de Tirynthe.<br><br>Les Mycéniens utilisaient le Linéaire B pour l'écriture, principalement à des fins administratives. Leur alimentation comprenait du blé, de l'orge, des légumes, du vin, et de la viande. L'art mycénien est caractérisé par des bijoux en or, des fresques, et des poteries. Les Mycéniens étaient également connus pour leurs compétences en navigation et en commerce à travers la Méditerranée.<br><br>La civilisation mycénienne a décliné vers la fin du 12ème siècle avant notre ère, en grande partie en raison des invasions des Peuples de la mer. Les Peuples de la mer étaient un groupe de populations maritimes qui ont attaqué les civilisations méditerranéennes à cette époque. Leur origine exacte est encore débattue, mais ils pourraient avoir inclus des groupes comme les Philistins, les Sicules et les Sardes.<br><br>Ces envahisseurs ont mené des raids dévastateurs qui ont perturbé les routes commerciales et détruit des centres urbains. La destruction causée par les Peuples de la mer, combinée à des troubles internes et à des catastrophes naturelles, a conduit à l'effondrement de la civilisation mycénienne. Après leur déclin, la Grèce a plongé dans une période de régression culturelle et économique connue sous le nom de « siècles obscurs »."
+          "headline": "Mycenaean Civilization",
+          "text": "Dominant in mainland Greece and the Aegean islands, the Mycenaean civilization is known for the Iliad and the Trojan War. The Mycenaeans were ruled by powerful kings, such as Agamemnon, and their society was militaristic. They built massive fortresses like those of Mycenae and Tiryns.<br><br>The Mycenaeans used Linear B for writing, mainly for administrative purposes. Their diet included wheat, barley, vegetables, wine, and meat. Mycenaean art is characterized by gold jewelry, frescoes, and pottery. The Mycenaeans were also known for their skills in navigation and trade across the Mediterranean.<br><br>The Mycenaean civilization declined towards the end of the 12th century BCE, largely due to invasions by the Sea Peoples. The Sea Peoples were a group of maritime populations who attacked Mediterranean civilizations at that time. Their exact origin is still debated, but they may have included groups like the Philistines, Siculi, and Sardinians.<br><br>These invaders conducted devastating raids that disrupted trade routes and destroyed urban centers. The destruction caused by the Sea Peoples, combined with internal turmoil and natural disasters, led to the collapse of the Mycenaean civilization. After their decline, Greece entered a period of cultural and economic regression known as the Dark Ages."
         },
         "background": { "color": "#556b2f" },
-        "group": "Asie Mineure",
-        "territory": "Grèce actuelle",
-        "population": "150'000"
+        "group": "Asia Minor",
+        "territory": "Modern-day Greece",
+        "population": "150,000"
       },
       {
         "start_date": { "year": "-27" },
         "end_date": { "year": "476" },
         "text": {
-          "headline": "Empire romain",
-          "text": "République romaine évolue en un empire couvrant l'Europe, l'Afrique du Nord et le Moyen-Orient. Pax Romana et Constantinople fondé en 330.<br><br>Auguste, le premier empereur romain, a inauguré une période de paix et de prospérité connue sous le nom de Pax Romana. Les dirigeants notables incluent Trajan, Hadrien, et Constantin. Les Romains ont fait des découvertes importantes en ingénierie, droit, et gouvernance.<br><br>Leur alimentation comprenait du pain, de l'huile d'olive, du vin, des légumes, et des viandes. Les loisirs incluaient les jeux de gladiateurs, les bains publics, et le théâtre. L'art romain est visible dans les sculptures, les mosaïques, et les architectures grandioses comme le Colisée."
+          "headline": "Roman Empire",
+          "text": "The Roman Republic evolves into an empire covering Europe, North Africa, and the Middle East. Pax Romana and Constantinople founded in 330.<br><br>Augustus, the first Roman emperor, inaugurated a period of peace and prosperity known as the Pax Romana. Notable rulers include Trajan, Hadrian, and Constantine. The Romans made significant discoveries in engineering, law, and governance.<br><br>Their diet included bread, olive oil, wine, vegetables, and meats. Leisure activities included gladiatorial games, public baths, and theater. Roman art is visible in sculptures, mosaics, and grand architecture such as the Colosseum."
         },
         "background": { "color": "#8b0000" },
         "group": "Europe",
-        "territory": "Italie actuelle",
-        "population": "60'000'000"
+        "territory": "Modern-day Italy",
+        "population": "60,000,000"
       }
     ]
   }

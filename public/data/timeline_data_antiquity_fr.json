@@ -1,0 +1,180 @@
+{
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Frise historique des civilisations antiques",
+        "text": "Civilisations et progrès de l'humanité en un clin d'oeil"
+      }
+    },
+    "events": [
+      {
+        "start_date": { "year": "-3500" },
+        "end_date": { "year": "-2334" },
+        "text": {
+          "headline": "Civilisation sumérienne",
+          "text": "Les Sumériens ont émergé comme la première grande civilisation de l'histoire humaine en Mésopotamie. Ils sont connus pour avoir inventé l'écriture cunéiforme, l'un des premiers systèmes d'écriture au monde, utilisé pour la première fois vers -3400.<br><br>Les Sumériens ont fondé plusieurs cités-États indépendantes comme Uruk, Ur, Lagash et Eridu. Chaque cité-État avait son propre gouvernement et des ziggurats, des temples massifs dédiés aux divinités locales. Le roi-prêtre était souvent le chef de la cité, exerçant à la fois des fonctions religieuses et politiques.<br><br>Les avancées technologiques des Sumériens incluent l'agriculture intensive avec des systèmes d'irrigation, des innovations en architecture comme les ziggurats, et des contributions en mathématiques et en astronomie.<br><br>La littérature sumérienne, comme l'épopée de Gilgamesh, l'une des plus anciennes œuvres littéraires connues, reflète leur riche culture et leur vision du monde. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. Ils utilisaient également la bière comme une boisson courante.<br><br>Leur art est visible dans les sculptures, les reliefs, et les objets en métal précieux. Les Sumériens ont finalement décliné face à l'ascension des Akkadiens vers -2334, lorsque Sargon d'Akkad a conquis les cités sumériennes et fondé le premier empire multiethnique."
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Croissant fertile",
+        "territory": "Irak actuel",
+        "population": "50'000"
+      },
+      {
+        "start_date": { "year": "-2334" },
+        "end_date": { "year": "-2154" },
+        "text": {
+          "headline": "Empire Akkadien",
+          "text": "Fondé par Sargon d'Akkad vers -2334, est le premier empire multiethnique connu de l'histoire. Sargon a unifié plusieurs cités-États sumériennes et étendu son empire à travers la Mésopotamie, établissant l'un des premiers grands empires de l'histoire.<br><br>Sargon d'Akkad est l'une des figures les plus célèbres de l'antiquité. Il est connu pour ses campagnes militaires réussies, ses réformes administratives et la fondation de la ville d'Akkad, qui est devenue le centre de l'empire. L'administration akkadiane était très centralisée, avec des satrapes (gouverneurs) nommés pour gérer différentes régions de l'empire.<br><br>Les Akkadiens ont propagé la culture, la langue et l'écriture cunéiforme à travers leurs vastes territoires. Ils ont également fait des avancées en art, en architecture et en technologie. Leurs artisans étaient connus pour leurs sculptures, leurs reliefs et leurs objets en métal précieux.<br><br>Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. L'empire d'Akkad a décliné après la mort de Sargon, affaibli par des rébellions internes et des invasions extérieures. L'empire s'est effondré vers -2154, laissant place à la montée de Babylone."
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Croissant fertile",
+        "territory": "Irak actuel",
+        "population": "100'000"
+      },
+      {
+        "start_date": { "year": "-1894" },
+        "end_date": { "year": "-539" },
+        "text": {
+          "headline": "Civilisation babylonienne",
+          "text": "La civilisation babylonienne est l'une des plus emblématiques de la Mésopotamie, avec une histoire qui s'étend de -1894 à -539. Fondée par les Amorites, Babylone a rapidement émergé comme une puissance régionale sous le règne de rois tels que Sumu-abum et Hammurabi.<br><br>Hammurabi, l'un des rois les plus célèbres de Babylone, a régné de -1792 à -1750. Il est surtout connu pour le Code de Hammurabi, l'un des plus anciens systèmes de lois écrites. Hammurabi a unifié la Mésopotamie sous son règne, établissant Babylone comme une puissance dominante. Son code de lois couvrait divers aspects de la vie, y compris les droits de propriété, le commerce, la famille et les crimes, et est gravé sur une stèle de pierre.<br><br>La ville de Babylone, avec ses célèbres jardins suspendus et la tour de Babel, est devenue un centre culturel et commercial majeur. Les Babyloniens ont fait des avancées significatives en astronomie, en mathématiques (avec le système sexagésimal), et en médecine. Leur religion et leur mythologie, incluant des textes comme l'Enuma Elish, ont eu une grande influence sur les cultures voisines.<br><br>Après la mort de Hammurabi, Babylone a connu des périodes de déclin et de renaissance. Sous le règne de Nabuchodonosor II (604-562 avant J.-C.), Babylone a atteint son apogée. Nabuchodonosor est connu pour avoir reconstruit Babylone, embellissant la ville avec des constructions magnifiques telles que la porte d'Ishtar, les jardins suspendus (considérés comme l'une des sept merveilles du monde antique), et le grand ziggurat, souvent associé à la tour de Babel.<br><br>Les Babyloniens utilisaient l'écriture cunéiforme, héritée des Sumériens, pour consigner leurs lois, leurs transactions commerciales et leurs œuvres littéraires. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson. L'art babylonien est célèbre pour ses reliefs, ses sculptures et ses mosaïques.<br><br>Malgré ses réussites, Babylone a finalement succombé aux forces extérieures. En -539, la ville est conquise par Cyrus le Grand de Perse, marquant la fin de l'empire babylonien. Cette chute a signalé le début de la domination perse en Mésopotamie, mais l'héritage de Babylone a perduré dans l'histoire et la culture de la région. Hammurabi, l'un des rois les plus célèbres de Babylone, a régné de -1792 à -1750. Il est surtout connu pour le Code de Hammurabi, l'un des plus anciens systèmes de lois écrites. Hammurabi a unifié la Mésopotamie sous son règne, établissant Babylone comme une puissance dominante.<br><br>Son code de lois couvrait divers aspects de la vie, y compris les droits de propriété, le commerce, la famille et les crimes, et est gravé sur une stèle de pierre. La ville de Babylone, avec ses célèbres jardins suspendus et la tour de Babel, est devenue un centre culturel et commercial majeur sous son règne.<br><br>Les Babyloniens ont fait des avancées significatives en astronomie, en mathématiques (avec le système sexagésimal), et en médecine. Leur religion et leur mythologie, incluant des textes comme l'Enuma Elish, ont eu une grande influence sur les cultures voisines.<br><br>Les Babyloniens utilisaient l'écriture cunéiforme, héritée des Sumériens, pour consigner leurs lois, leurs transactions commerciales et leurs œuvres littéraires. Leur régime alimentaire comprenait des céréales, des légumes, des fruits, de la viande et du poisson.<br><br>L'art babylonien est célèbre pour ses reliefs, ses sculptures et ses mosaïques. La chute de Babylone est survenue après l'invasion des Perses en -539, marquant la fin de l'empire babylonien."
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Croissant fertile",
+        "territory": "Irak actuel ",
+        "population": "200'000"
+      },
+      {
+        "start_date": { "year": "-550" },
+        "end_date": { "year": "-330" },
+        "text": {
+          "headline": "Empire perse achéménide",
+          "text": "L'Empire perse achéménide, fondé par Cyrus le Grand en -550, est l'un des plus grands et des plus influents empires de l'histoire ancienne. S'étendant de l'Indus à la mer Égée, il a marqué son époque par sa tolérance religieuse, son administration efficace et ses grandes infrastructures.<br><br>Cyrus le Grand a unifié les tribus perses et a conquis l'Empire mède, le royaume de Lydie et Babylone. Son règne est reconnu pour sa clémence envers les peuples conquis et la libération des Juifs de la captivité babylonienne.<br><br>Son successeur, Darius Ier, a réorganisé l'empire en provinces administratives appelées satrapies, chacune gouvernée par un satrape. Darius a également standardisé les poids et mesures, introduit une monnaie commune et développé un vaste réseau de routes, dont la célèbre Route royale, facilitant le commerce et la communication.<br><br>Les Perses ont construit des monuments impressionnants comme la capitale Persepolis, où les arts et l'architecture florissaient. Le palais de Darius et les reliefs sculptés de la terrasse de l'Apadana témoignent de la grandeur de l'empire.<br><br>La religion zoroastrienne, avec Ahura Mazda comme dieu suprême, a influencé l'empire, prônant le dualisme entre le bien et le mal. La tolérance religieuse était une marque distinctive de l'administration perse, permettant aux différentes cultures et religions de coexister.<br><br>Malgré ses réalisations, l'empire a subi des défaites contre les cités-états grecques pendant les guerres médiques. Xerxès Ier, successeur de Darius, a été vaincu lors des batailles de Salamine et de Platées. Finalement, l'empire a été conquis par Alexandre le Grand en -330, marquant la fin de la domination perse et le début de l'ère hellénistique.<br><br>L'Empire perse achéménide a laissé un héritage durable dans les domaines de l'administration, de l'infrastructure et de la culture, influençant les civilisations qui ont suivi.<br><br>Territoire: Iran actuel, Irak, Turquie, Égypte, Pakistan"
+        },
+        "background": { "color": "#8b4513" },
+        "group": "Croissant fertile",
+        "territory": "Iran actuel, Irak, Turquie, Égypte, Pakistan",
+        "population": "35'000'000"
+      },
+      {
+        "start_date": { "year": "-3100" },
+        "end_date": { "year": "-2181" },
+        "text": {
+          "headline": "Civilisation de l'Égypte ancienne",
+          "text": "Narmer unifie la Haute et la Basse Égypte, marquant le début de la première dynastie et de l'Égypte unifiée. Haute Égypte, située dans le sud, est caractérisée par la vallée du Nil et des terres plus étroites. Basse Égypte, au nord, comprend le delta du Nil avec des terres fertiles et propices à l'agriculture. Avant l'unification, ces régions avaient des cultures et des dirigeants distincts.<br><br>Les pharaons tels que Khéops, Khéphren et Mykérinos ont laissé une marque indélébile avec la construction des pyramides de Gizeh. La société égyptienne était hiérarchisée, avec le pharaon au sommet, suivi des prêtres, des nobles, et des artisans.<br><br>Les Égyptiens ont fait des avancées en médecine, en mathématiques et en ingénierie. Leur écriture hiéroglyphique et leur art sophistiqué, visible dans les fresques et les sculptures, sont encore admirés aujourd'hui. Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et des poissons du Nil. La religion jouait un rôle central, avec des dieux comme Rê, Osiris et Isis."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Vallée du Nil",
+        "territory": "Égypte actuelle",
+        "population": "1'000'000"
+      },
+      {
+        "start_date": { "year": "-2181" },
+        "end_date": { "year": "-2055" },
+        "text": {
+          "headline": "Première Période Intermédiaire de l'Égypte",
+          "text": "Après la fin de l'Ancien Empire et de la sixième dynastie, l'Égypte a connu une période de décentralisation politique et de troubles sociaux connue sous le nom de Première Période Intermédiaire. Cette époque a vu la fragmentation du pouvoir central, avec plusieurs nomarques locaux (gouverneurs) prenant le contrôle de leurs propres régions.<br><br>Les capitales régionales comme Héracléopolis en Basse Égypte et Thèbes en Haute Égypte ont émergé comme centres de pouvoir concurrents. Cette période a également été marquée par des famines, des conflits internes et une diminution des ressources économiques.<br><br>Malgré les troubles, la Première Période Intermédiaire a également été une époque d'innovation culturelle et artistique. Les tombes des nobles locaux montrent une grande diversité de styles artistiques et une évolution des pratiques funéraires.<br><br>Les Égyptiens de cette époque consommaient une alimentation de base composée de pain, de bière, de légumes, et de poisson. Les loisirs incluaient la musique, la danse et les jeux. Les efforts pour réunifier l'Égypte ont finalement abouti sous le règne de Montouhotep II, marquant le début du Moyen Empire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Vallée du Nil",
+        "territory": "Égypte actuelle",
+        "population": "1'000'000"
+      },
+      {
+        "start_date": { "year": "-2055" },
+        "end_date": { "year": "-1650" },
+        "text": {
+          "headline": "Moyen Empire de l'Égypte",
+          "text": "Le Moyen Empire, qui a duré de -2055 à -1650, est une période de renaissance culturelle, politique et économique en Égypte. Après la Première Période Intermédiaire, Montouhotep II de Thèbes a réussi à réunifier l'Égypte, marquant le début de la onzième dynastie.<br><br>Le Moyen Empire est souvent considéré comme l'âge d'or de la civilisation égyptienne. Les pharaons de cette période, tels que Sesostris III et Amenemhat III, ont renforcé l'autorité centrale et ont mis en place des réformes administratives pour améliorer la gestion des ressources et la justice.<br><br>Les Égyptiens ont construit des temples monumentaux et des complexes funéraires élaborés. La littérature égyptienne a prospéré avec des œuvres célèbres comme le conte de Sinouhé. L'art et l'architecture ont atteint de nouveaux sommets de sophistication.<br><br>La société égyptienne était bien organisée avec une hiérarchie claire, mais il y avait aussi des opportunités pour la mobilité sociale. L'économie était basée sur l'agriculture, avec des projets d'irrigation améliorant la production agricole.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. Les Égyptiens adoraient une multitude de dieux, avec des rituels religieux jouant un rôle central dans la vie quotidienne.<br><br>Le Moyen Empire a finalement décliné en raison de troubles internes et des invasions des Hyksos, marquant le début de la Deuxième Période Intermédiaire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Vallée du Nil",
+        "territory": "Égypte actuelle",
+        "population": "1'500'000"
+      },
+      {
+        "start_date": { "year": "-1650" },
+        "end_date": { "year": "-1550" },
+        "text": {
+          "headline": "Deuxième Période Intermédiaire de l'Égypte",
+          "text": "La Deuxième Période Intermédiaire de l'Égypte, qui s'étend de -1650 à -1550, est caractérisée par la domination des Hyksos dans le nord de l'Égypte et l'affaiblissement du pouvoir central. Les Hyksos, un peuple d'origine asiatique, ont introduit de nouvelles technologies comme le char de guerre et des armes en bronze.<br><br>Ils ont établi leur capitale à Avaris et ont gouverné la Basse Égypte, tandis que des dynasties égyptiennes locales continuaient de régner sur la Haute Égypte. Les Hyksos ont adopté de nombreux aspects de la culture égyptienne, y compris les dieux et les pratiques funéraires.<br><br>La société égyptienne a continué de fonctionner malgré la division du pays. L'économie reposait toujours sur l'agriculture, mais les conflits et les troubles ont affecté la stabilité et la production. Les pharaons de la Haute Égypte ont cherché à résister et à reconquérir les territoires occupés par les Hyksos.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. La religion restait un élément central de la vie quotidienne, avec des pratiques et des rituels pour honorer les dieux.<br><br>La Deuxième Période Intermédiaire a pris fin avec la campagne militaire du pharaon Ahmôsis Ier, qui a réussi à expulser les Hyksos et à réunifier l'Égypte, marquant ainsi le début du Nouvel Empire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Vallée du Nil",
+        "territory": "Égypte actuelle",
+        "population": "1'200'000"
+      },
+      {
+        "start_date": { "year": "-1550" },
+        "end_date": { "year": "-1077" },
+        "text": {
+          "headline": "Nouvel Empire de l'Égypte",
+          "text": "Le Nouvel Empire, qui a duré de -1550 à -1077, est souvent considéré comme l'apogée de la puissance et de la prospérité de l'Égypte ancienne. Après avoir expulsé les Hyksos, les pharaons du Nouvel Empire ont établi un empire puissant qui s'étendait de la Nubie au sud à l'Asie occidentale.<br><br>Parmi les pharaons les plus célèbres de cette période figurent Hatchepsout, Akhenaton, Toutankhamon, et Ramsès II. Hatchepsout, l'une des rares femmes pharaons, a favorisé le commerce et construit des monuments grandioses comme son temple funéraire à Deir el-Bahari.<br><br>Akhenaton a introduit une révolution religieuse en promouvant le culte d'Aton, le disque solaire, et en supprimant les autres cultes. Son fils, Toutankhamon, est célèbre pour son tombeau intact découvert en 1922. Ramsès II, également connu sous le nom de Ramsès le Grand, est réputé pour ses conquêtes militaires et ses monuments colossaux, comme les temples d'Abou Simbel.<br><br>La société égyptienne du Nouvel Empire était très hiérarchisée, avec une bureaucratie complexe pour administrer les territoires conquis. L'économie reposait sur l'agriculture, le commerce, et les tributs des régions dominées. Les Égyptiens ont continué à faire des avancées en médecine, en ingénierie et en astronomie.<br><br>Leur alimentation comprenait du pain, de la bière, des légumes, des fruits, et du poisson. Les loisirs incluaient la musique, la danse, et les jeux. La religion restait centrale, avec de nombreux temples et rituels pour honorer les dieux.<br><br>Le Nouvel Empire a finalement décliné en raison de troubles internes, de pressions externes et de l'épuisement des ressources, marquant le début de la Troisième Période Intermédiaire."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Vallée du Nil",
+        "territory": "Égypte actuelle",
+        "population": "2'000'000"
+      },
+      {
+        "start_date": { "year": "-2700" },
+        "end_date": { "year": "-1450" },
+        "text": {
+          "headline": "Civilisation minoenne",
+          "text": "La civilisation minoenne, qui a prospéré sur l'île de Crète et dans d'autres îles de la mer Égée entre environ -2700 et -1450, est l'une des civilisations les plus remarquables de l'âge du bronze.<br><br>Connue pour ses palais élaborés, tels que ceux de Knossos, Phaistos, Malia et Zakros, la civilisation minoenne a laissé une empreinte durable sur l'histoire de l'art et de l'architecture. Les Minoens ont développé des systèmes d'écriture sophistiqués, le Linéaire A et le Linéaire B.<br><br>Le Linéaire A, utilisé principalement pour des inscriptions religieuses et administratives, reste largement indéchiffré. Ce système d'écriture semble être une forme de proto-écriture, utilisée pour tenir des registres et peut-être pour des rituels religieux. Le Linéaire B, en revanche, a été déchiffré et s'est révélé être une forme archaïque de grec, utilisée principalement pour des documents administratifs.<br><br>Les palais minoens étaient des centres économiques, politiques et religieux, dotés de vastes entrepôts, de salles de réception, et de sanctuaires. Les fresques élaborées qui ornaient les murs de ces palais représentent des scènes de la vie quotidienne, des rituels religieux, et des activités sportives telles que le saut de taureau.<br><br>La religion minoenne semble avoir été centrée sur la déesse mère, souvent représentée avec des serpents, symboles de régénération et de protection. Les Minoens étaient également des marins et des commerçants habiles, établissant des réseaux commerciaux étendus à travers la Méditerranée, échangeant des produits comme l'huile d'olive, le vin, et le textile.<br><br>Leur régime alimentaire comprenait du poisson, des fruits de mer, des céréales, des olives, des figues, du miel, et des produits laitiers. La société minoenne semble avoir été relativement égalitaire, avec une place importante accordée aux femmes.<br><br>Les loisirs comprenaient des activités telles que la danse, la musique, et les jeux. Les Minoens excellaient également dans les arts décoratifs, comme la poterie, les bijoux, et la sculpture sur pierre.<br><br>Le déclin de la civilisation minoenne est souvent attribué à une série de catastrophes naturelles, telles que l'éruption du volcan de Santorin, suivies de l'invasion par les Mycéniens vers -1450."
+        },
+        "background": { "color": "#556b2f" },
+        "group": "Asie Mineure",
+        "territory": "Grèce actuelle",
+        "population": "80'000"
+      },
+      {
+        "start_date": { "year": "-1600" },
+        "end_date": { "year": "-1100" },
+        "text": {
+          "headline": "Civilisation achéenne",
+          "text": "La civilisation achéenne, également connue sous le nom de Mycénienne, a prospéré en Grèce continentale et dans les îles de la mer Égée entre environ -1600 et -1100. Cette civilisation est célèbre pour ses palais fortifiés, ses riches tombes royales et ses avancées culturelles et technologiques.<br><br>Les Achéens étaient des guerriers et des commerçants habiles, et ils ont joué un rôle central dans les épopées homériques, notamment dans l'Iliade et l'Odyssée. Des figures légendaires comme Agamemnon, roi de Mycènes, et Ménélas, roi de Sparte, sont souvent associées à cette période.<br><br>Les sites archéologiques de Mycènes, Tirynthe et Pylos révèlent des structures impressionnantes comme les mégarons (grandes salles de réception), les tombes à tholos et les murailles cyclopéennes. Les artefacts retrouvés incluent des bijoux en or, des poteries décorées et des tablettes en linéaire B, un système d'écriture utilisé pour des comptes administratifs.<br><br>La société achéenne était hiérarchisée, avec des rois puissants au sommet et une élite guerrière. Leur alimentation comprenait du blé, de l'orge, des légumes, du vin et de la viande. L'art achéen se distingue par ses fresques colorées, ses sculptures en ivoire et ses objets en métal précieux.<br><br>Les Achéens ont finalement décliné vers la fin du 12e siècle avant notre ère, probablement en raison de facteurs combinés tels que les invasions des Peuples de la mer, les troubles internes et les catastrophes naturelles. Leur disparition a marqué le début d'une période de régression culturelle et économique connue sous le nom de siècles obscurs."
+        },
+        "background": { "color": "#556b2f" },
+        "group": "Europe",
+        "territory": "Grèce actuelle",
+        "population": "150'000"
+      },
+      {
+        "start_date": { "year": "-1200" },
+        "end_date": { "year": "-900" },
+        "text": {
+          "headline": "Invasions des Peuples de la mer",
+          "text": "Les Peuples de la mer étaient un groupe de populations maritimes qui ont attaqué et déstabilisé de nombreuses civilisations de la Méditerranée orientale vers la fin de l'âge du bronze, entre -1200 et -900. Leur origine exacte reste un sujet de débat parmi les historiens, mais ils pourraient avoir inclus des groupes comme les Philistins, les Sicules et les Sardes.<br><br>Les invasions des Peuples de la mer ont eu des conséquences dévastatrices pour de nombreuses civilisations établies, notamment les Mycéniens, les Hittites et les Égyptiens. Ces envahisseurs menaient des raids dévastateurs, perturbant les routes commerciales et détruisant des centres urbains.<br><br>Les archives égyptiennes, en particulier les inscriptions du pharaon Ramsès III à Medinet Habou, décrivent des batailles féroces contre les Peuples de la mer, qui ont tenté d'envahir l'Égypte. Ramsès III a réussi à repousser ces attaques, préservant l'intégrité de son royaume.<br><br>Les causes exactes des migrations et des attaques des Peuples de la mer sont encore inconnues, mais des facteurs comme les changements climatiques, les famines, et les tensions internes dans leurs régions d'origine sont souvent évoqués.<br><br>L'impact des Peuples de la mer sur le monde méditerranéen a été profond, contribuant à l'effondrement de plusieurs grandes civilisations et au début d'une période de déclin culturel et économique connue sous le nom de siècles obscurs."
+        },
+        "background": { "color": "#556b2f" },
+        "group": "Méditerranée",
+        "territory": "Régions côtières de la Méditerranée orientale",
+        "population": "Inconnu"
+      },      
+      {
+        "start_date": { "year": "-2500" },
+        "end_date": { "year": "-1500" },
+        "text": {
+          "headline": "Civilisation de la vallée de l'Indus",
+          "text": "Une des premières grandes civilisations du monde. Avancées en urbanisme, art, métallurgie, et écriture.<br><br>Les villes principales comme Harappa et Mohenjo-Daro montrent une planification urbaine avancée avec des systèmes de drainage et des rues bien organisées. Les Indus utilisaient des sceaux pour la comptabilité et le commerce, ce qui indique un système d'écriture sophistiqué.<br><br>Leur alimentation comprenait du blé, de l'orge, des légumineuses, et des fruits. Les loisirs incluaient la danse, la musique, et les jeux de société. L'art de la vallée de l'Indus est visible dans la poterie, les bijoux, et les sculptures en pierre. La civilisation de l'Indus a décliné en raison de changements climatiques et de migrations."
+        },
+        "background": { "color": "#2f4f4f" },
+        "group": "Asie",
+        "territory": "Pakistan et Inde actuels",
+        "population": "5'000'000"
+      },
+      {
+        "start_date": { "year": "-600" },
+        "end_date": { "year": "-200" },
+        "text": {
+          "headline": "Empire Maurya",
+          "text": "L'un des plus grands empires de l'Inde ancienne, fondé par Chandragupta Maurya. Connu pour ses progrès en administration et politique sous Ashoka.<br><br>Chandragupta Maurya a fondé l'empire après avoir renversé la dynastie Nanda. Son petit-fils Ashoka est célèbre pour avoir promu le bouddhisme et les valeurs de non-violence après la bataille de Kalinga.<br><br>Leur alimentation comprenait du riz, des légumes, des fruits, et du lait. Les loisirs incluaient la chasse, la musique, et la danse. L'art Maurya est visible dans les stupas, les piliers d'Ashoka, et les sculptures religieuses. L'empire Maurya a décliné en raison de la faiblesse administrative et des invasions."
+        },
+        "background": { "color": "#2f4f4f" },
+        "group": "Asie",
+        "territory": "Inde actuelle",
+        "population": "10'000'000"
+      }
+    ]
+  }
+}

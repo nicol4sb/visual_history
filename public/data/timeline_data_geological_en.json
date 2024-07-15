@@ -1,85 +1,84 @@
 {
-    "timeline": {
-      "title": {
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Geological History",
+        "text": "Significant events in Earth's geological history"
+      }
+    },
+    "events": [
+      {
+        "start_date": { "year": "-4600000000" },
+        "end_date": { "year": "-4000000000" },
         "text": {
-          "headline": "Geological History",
-          "text": "Significant events in Earth's geological history"
-        }
+          "headline": "Formation of Earth",
+          "text": "Approximately 4.6 billion years ago, the Earth formed from the solar nebula, a vast disk of gas and dust left over after the formation of the Sun. This period marked the beginning of Earth's geological history. As gravity caused the nebula to collapse, the material within began to coalesce, eventually forming planetesimals. These planetesimals collided and merged over millions of years, creating the early Earth.<br><br>During the Hadean Eon, the young Earth was a molten mass, frequently bombarded by meteorites. The intense heat from these impacts, combined with radioactive decay, kept the surface molten. As the planet cooled, a solid crust began to form. Volcanic activity was widespread, and the atmosphere, composed mainly of hydrogen, helium, and other volcanic gases, was very different from today's atmosphere.<br><br>Water vapor released by volcanic activity eventually condensed to form the first oceans. Despite harsh conditions, this era set the stage for the development of Earth's features. Over time, the planet differentiated into a core, mantle, and crust, with heavier elements sinking to the center and lighter materials forming the crust.<br><br>The formation of the Moon is also a significant event of this period. The giant impact hypothesis suggests that a Mars-sized body, Theia, collided with the early Earth, ejecting material that eventually coalesced to form the Moon. This impact not only created the Moon but also significantly affected Earth's tilt and rotation, contributing to conditions necessary for life.<br><br>By the end of the Hadean Eon, around 4 billion years ago, Earth's surface was beginning to stabilize, paving the way for the Archean Eon, during which the first signs of life would appear. This foundational period in Earth's history laid the groundwork for the complex geological and biological processes that followed."
+        },
+        "background": { "color": "#ff6347" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
       },
-      "events": [
-        {
-          "start_date": { "year": "-4600", "month": "1", "day": "1" },
-          "end_date": { "year": "-4000", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Formation of Earth",
-            "text": "Approximately 4.6 billion years ago, the Earth formed from the solar nebula. This period marked the beginning of Earth's geological history."
-          },
-          "background": { "color": "#ff6347" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
+      {
+        "start_date": { "year": "-4000000000" },
+        "end_date": { "year": "-2500000000" },
+        "text": {
+          "headline": "Archean Eon",
+          "text": "Spanning from 4 billion to 2.5 billion years ago, the Archean Eon saw the formation of the first continents and the emergence of life in the form of simple bacteria. During this time, the Earth's crust had cooled enough to allow for the formation of continents. The atmosphere was primarily composed of methane, ammonia, and other gases, with little to no free oxygen.<br><br>Life began in the oceans, where conditions were more stable. The earliest forms of life were simple, single-celled prokaryotes like bacteria and archaea. These microorganisms thrived in the warm, nutrient-rich oceans and began to influence their environment. The development of photosynthesis by cyanobacteria was a crucial event during this eon, as it gradually led to the release of oxygen into the atmosphere.<br><br>The Archean Eon was also marked by significant geological activity. The Earth's lithosphere was fragmented into small, fast-moving tectonic plates. Volcanic activity was widespread, and the formation of greenstone belts, a type of rock formation unique to this period, occurred. These belts are among the oldest geological features still present today.<br><br>As tectonic plates moved and collided, they created protocontinents. The constant recycling of the Earth's crust through subduction and volcanic activity played a crucial role in forming and stabilizing these early landmasses. By the end of the Archean Eon, around 40% of Earth's continental crust had formed.<br><br>Despite harsh conditions, life persisted and evolved. Stromatolites, layered structures formed by the activity of microorganisms, became more common and are among the oldest fossil evidence of life. These structures provide insight into the early biosphere and the conditions in which primitive life thrived.<br><br>The transition from the Archean to the Proterozoic Eon around 2.5 billion years ago marked significant changes in Earth's atmosphere, climate, and life forms. The increase in atmospheric oxygen, known as the Great Oxidation Event, set the stage for the development of more complex life forms in the following eon."
         },
-        {
-          "start_date": { "year": "-2500", "month": "1", "day": "1" },
-          "end_date": { "year": "-1600", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Archean Eon",
-            "text": "Spanning from 4 billion to 2.5 billion years ago, the Archean Eon saw the formation of the first continents and the emergence of life in the form of simple bacteria."
-          },
-          "background": { "color": "#87cefa" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
+        "background": { "color": "#87cefa" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
+      },
+      {
+        "start_date": { "year": "-2500000000" },
+        "end_date": { "year": "-541000000" },
+        "text": {
+          "headline": "Proterozoic Eon",
+          "text": "From 2.5 billion to 541 million years ago, the Proterozoic Eon was characterized by the buildup of atmospheric oxygen and the emergence of more complex life forms. This eon represents nearly half of Earth's history and includes significant geological, climatic, and biological changes.<br><br>The Great Oxidation Event, occurring around 2.4 billion years ago, marked a dramatic increase in atmospheric oxygen produced by photosynthetic cyanobacteria. This rise in oxygen levels had profound effects on Earth's environment and life forms. Increased oxygen levels led to the formation of the ozone layer, which protected the surface from harmful ultraviolet radiation, allowing life to thrive on land.<br><br>During the Proterozoic, the first eukaryotic cells (organisms with complex cells containing a nucleus) appeared, representing a major evolutionary advance. These cells eventually gave rise to multicellular life forms, leading to the development of diverse and complex organisms.<br><br>Geologically, the Proterozoic Eon saw the formation and breakup of supercontinents. The first known supercontinent, Columbia (also known as Nuna), formed around 1.8 billion years ago and eventually broke apart. Another significant supercontinent, Rodinia, formed around 1.3 billion years ago and began to break apart around 750 million years ago. The movements and collisions of tectonic plates during these times played a crucial role in shaping Earth's surface.<br><br>One of the most significant events of the Proterozoic Eon was the Snowball Earth episodes, occurring around 720 to 635 million years ago. These were periods of extreme glaciation, where the entire planet was covered in ice. These glaciations had a significant impact on life, exerting evolutionary pressures that may have driven the development of multicellular organisms.<br><br>The end of the Proterozoic Eon is marked by the Ediacaran Period (635-541 million years ago), during which the first large, complex multicellular organisms appeared. The Ediacaran biota included a variety of soft-bodied organisms, some of which may be the ancestors of modern animal groups. The transition to the Cambrian, around 541 million years ago, ushered in a period of rapid biological diversification known as the Cambrian Explosion."
         },
-        {
-          "start_date": { "year": "-1600", "month": "1", "day": "1" },
-          "end_date": { "year": "-542", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Proterozoic Eon",
-            "text": "From 2.5 billion to 542 million years ago, the Proterozoic Eon was characterized by the buildup of atmospheric oxygen and the emergence of more complex life forms."
-          },
-          "background": { "color": "#3cb371" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
+        "background": { "color": "#3cb371" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
+      },
+      {
+        "start_date": { "year": "-541000000" },
+        "end_date": { "year": "-485000000" },
+        "text": {
+          "headline": "Cambrian Explosion",
+          "text": "Approximately 541 million years ago, a rapid diversification of life forms occurred, known as the Cambrian Explosion. This period saw the emergence of many major groups of animals. Before the Cambrian Explosion, most organisms were simple, composed of individual cells organized into colonies. However, at the beginning of the Cambrian, more complex life forms with diverse body structures suddenly appeared.<br><br>Fossils from the Cambrian Explosion show a staggering variety of organisms, including arthropods, mollusks, echinoderms, and the first vertebrates. These animals had complex body structures, such as exoskeletons, segmented bodies, and specialized appendages for locomotion, grasping, and feeding.<br><br>The sudden and diverse appearance of life during the Cambrian Explosion represents a crucial chapter in the evolution of life on Earth. The causes of this rapid diversification are still debated among scientists, but several factors likely contributed. The increase in oxygen levels in the oceans, the development of new ecological niches, and genetic innovations in developmental pathways may have played key roles.<br><br>Environmental changes, such as rising oxygen levels and the formation of new habitats, created opportunities for the diversification of life forms. Additionally, ecological interactions, such as predation and competition, may have driven the evolution of new adaptive strategies and the diversification of body structures.<br><br>The end of the Cambrian, around 485 million years ago, marked the transition to the Ordovician, a period during which life continued to diversify and spread into new environments, including the first colonization of land. The innovations in body plans, feeding strategies, and ecological interactions during the Cambrian Explosion laid the foundation for the subsequent evolution of life on Earth, leading to the complex diversity of ecosystems we see today."
         },
-        {
-          "start_date": { "year": "-541", "month": "1", "day": "1" },
-          "end_date": { "year": "-485", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Cambrian Explosion",
-            "text": "Approximately 541 million years ago, a rapid diversification of life forms occurred, known as the Cambrian Explosion. This period saw the emergence of many major groups of animals."
-          },
-          "background": { "color": "#ff7f50" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
+        "background": { "color": "#ff7f50" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
+      },
+      {
+        "start_date": { "year": "-252000000" },
+        "end_date": { "year": "-201000000" },
+        "text": {
+          "headline": "Triassic Period",
+          "text": "Spanning from 252 to 201 million years ago, the Triassic Period saw the rise of dinosaurs and the first mammals. It ended with a mass extinction event. The Triassic marks the beginning of the Mesozoic Era, often called the age of reptiles.<br><br>The Early Triassic was a period of recovery after the Permian-Triassic extinction event, the most severe extinction event in Earth's history. This event wiped out about 96% of marine species and 70% of terrestrial vertebrate species. Early Triassic ecosystems were relatively simple, dominated by a few surviving species.<br><br>As the Triassic progressed, life began to diversify again. The first dinosaurs appeared in the Late Triassic, evolving from earlier reptilian ancestors. These early dinosaurs were generally small and bipedal but would come to dominate terrestrial ecosystems during the following Jurassic period.<br><br>The Triassic also saw the emergence of the first true mammals. These small, nocturnal creatures evolved from therapsid reptiles. The appearance of mammals marked the beginning of a long evolutionary lineage that would eventually lead to the diversity of mammalian species present today.<br><br>Marine life also diversified during the Triassic. The first modern coral reefs formed, providing new habitats for marine organisms. Marine reptiles, such as ichthyosaurs and plesiosaurs, became important predators in the oceans.<br><br>Geologically, the Triassic was marked by the fragmentation of the supercontinent Pangaea. This process began in the Late Triassic and continued into the Jurassic. The breakup of Pangaea had significant effects on global climate, sea levels, and the distribution of life.<br><br>The end of the Triassic was marked by another mass extinction event, the Triassic-Jurassic extinction, which occurred around 201 million years ago. This event led to the extinction of many marine and terrestrial species, paving the way for the rise of dinosaurs in the Jurassic. The Triassic Period set the stage for the ecosystems of the Mesozoic Era. The evolutionary innovations of this period, including the rise of dinosaurs and mammals, had a profound impact on the history of life on Earth."
         },
-        {
-          "start_date": { "year": "-252", "month": "1", "day": "1" },
-          "end_date": { "year": "-201", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Triassic Period",
-            "text": "Spanning from 252 to 201 million years ago, the Triassic Period saw the rise of dinosaurs and the first mammals. It ended with a mass extinction event."
-          },
-          "background": { "color": "#4682b4" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
+        "background": { "color": "#4682b4" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
+      },
+      {
+        "start_date": { "year": "-66000000" },
+        "end_date": { "year": "0" },
+        "text": {
+          "headline": "Cenozoic Era",
+          "text": "Beginning 66 million years ago and continuing to the present, the Cenozoic Era is characterized by the dominance of mammals and the development of human civilizations. The Cenozoic is divided into three periods: the Paleogene, Neogene, and Quaternary.<br><br>The Paleogene Period (66 to 23 million years ago) followed the mass extinction event that ended the Cretaceous and the reign of the dinosaurs. This period saw the rapid diversification of mammals and birds, which took advantage of ecological niches left vacant by the dinosaurs. Early mammals included small insectivorous species, but they quickly evolved into a wide range of forms, including primates, ungulates, and carnivores.<br><br>The Neogene Period (23 to 2.6 million years ago) continued this trend of mammalian diversification. Earth's climate gradually cooled, leading to the formation of polar ice caps. Grasslands expanded, and many modern families of mammals, such as horses, deer, and elephants, evolved during this time. Early hominins, ancestors of modern humans, also appeared in Africa during the Neogene.<br><br>The Quaternary Period (2.6 million years ago to the present) is characterized by repeated cycles of glaciation, known as ice ages, interspersed with warmer interglacial periods. These climatic changes had significant impacts on the distribution of plants and animals. The Quaternary also saw the rise of Homo sapiens and the development of human civilizations.<br><br>Human evolution began in Africa, with early hominins developing bipedal locomotion and larger brains. The genus Homo emerged around 2.8 million years ago, with Homo habilis being one of the earliest known species. Homo erectus, appearing around 1.9 million years ago, was the first hominin to migrate out of Africa, spreading into Asia and Europe.<br><br>Modern humans, Homo sapiens, evolved around 300,000 years ago in Africa. They eventually spread across the globe, replacing or interbreeding with other hominin species. The development of agriculture around 10,000 years ago marked a significant turning point, leading to the establishment of permanent settlements and the rise of civilizations. The Cenozoic Era has witnessed the dramatic evolution of life, culminating in the rise of human beings, who have had an unparalleled impact on the planet."
         },
-        {
-          "start_date": { "year": "-66", "month": "1", "day": "1" },
-          "end_date": { "year": "0", "month": "1", "day": "1" },
-          "text": {
-            "headline": "Cenozoic Era",
-            "text": "Beginning 66 million years ago and continuing to the present, the Cenozoic Era is characterized by the dominance of mammals and the development of human civilizations."
-          },
-          "background": { "color": "#9acd32" },
-          "group": "Geological",
-          "territory": "N/A",
-          "population": "N/A"
-        }
-      ]
-    }
+        "background": { "color": "#9acd32" },
+        "group": "Geological",
+        "territory": "N/A",
+        "population": "N/A"
+      }
+    ]
   }
-  
+}
