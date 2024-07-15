@@ -1,289 +1,120 @@
 {
-    "timeline": {
-      "title": {
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Histoire de Rome",
+        "text": "Une chronologie des principaux événements de la République et de l'Empire romain."
+      }
+    },
+    "events": [
+      {
+        "start_date": { "year": "-509" },
+        "end_date": { "year": "-27" },
         "text": {
-          "headline": "Frise Chronologique de l'Histoire Romaine",
-          "text": "Événements majeurs de la République romaine, de l'Empire romain, de l'Empire romain d'Occident et de l'Empire romain d'Orient"
-        }
+          "headline": "République romaine",
+          "text": "La République romaine s'étend de -509 à -27, marquée par des conflits internes et des conquêtes. Les institutions républicaines comme le Sénat et les consuls dominent la politique romaine. La fin de la République est marquée par la montée de Jules César et la guerre civile qui aboutit à l'ascension d'Auguste."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "République",
+        "territory": "Rome, Italie actuelle",
+        "population": "4'000'000"
       },
-      "events": [
-        {
-          "start_date": { "year": "-509" },
-          "end_date": { "year": "-27" },
-          "text": {
-            "headline": "République romaine",
-            "text": "La République romaine a été fondée en 509 av. J.-C. après le renversement de la monarchie romaine. Les figures clés incluent Lucius Junius Brutus, Caius Marius et Jules César."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "République romaine",
-          "territory": "Italie, Sicile, Espagne, Gaule, Afrique du Nord, Grèce, Asie Mineure",
-          "population": "4 000 000"
+      {
+        "start_date": { "year": "-27" },
+        "end_date": { "year": "68" },
+        "text": {
+          "headline": "Dynastie Julio-Claudienne",
+          "text": "La dynastie julio-claudienne commence avec Auguste, le premier empereur de Rome, et se termine avec le suicide de Néron. Cette période est marquée par des réformes administratives, la Pax Romana et plusieurs empereurs notables comme Tibère, Caligula, et Claude."
         },
-        {
-          "start_date": { "year": "-27" },
-          "end_date": { "year": "476" },
-          "text": {
-            "headline": "Empire romain",
-            "text": "L'Empire romain a commencé en 27 av. J.-C. avec Auguste comme premier empereur, s'étendant de l'Europe occidentale au Moyen-Orient et à l'Afrique du Nord."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Europe occidentale, Moyen-Orient, Afrique du Nord",
-          "population": "60 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle",
+        "population": "55'000'000"
+      },
+      {
+        "start_date": { "year": "69" },
+        "end_date": { "year": "96" },
+        "text": {
+          "headline": "Dynastie Flavienne",
+          "text": "Fondée par Vespasien, la dynastie flavienne renforce l'Empire et reconstruit Rome après la guerre civile. Les empereurs de cette dynastie, Vespasien, Titus et Domitien, sont connus pour leurs réformes et la construction du Colisée."
         },
-        {
-          "start_date": { "year": "395" },
-          "end_date": { "year": "476" },
-          "text": {
-            "headline": "Empire romain d'Occident",
-            "text": "L'Empire romain d'Occident a été officiellement établi en 395 ap. J.-C. et a existé jusqu'à sa chute en 476 ap. J.-C. sous la pression des invasions barbares."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain d'Occident",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord",
-          "population": "30 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle",
+        "population": "60'000'000"
+      },
+      {
+        "start_date": { "year": "96" },
+        "end_date": { "year": "192" },
+        "text": {
+          "headline": "Dynastie des Antonins",
+          "text": "Les Antonins, dont les plus célèbres sont Trajan, Hadrien, Antonin le Pieux et Marc Aurèle, dirigent l'Empire à son apogée territoriale et économique, avec des avancées en droit et en infrastructure."
         },
-        {
-          "start_date": { "year": "395" },
-          "end_date": { "year": "1453" },
-          "text": {
-            "headline": "Empire romain d'Orient (Byzantin)",
-            "text": "L'Empire romain d'Orient, ou Empire byzantin, a perduré de 395 à 1453, avec Constantinople comme capitale, jusqu'à sa chute face aux Ottomans."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain d'Orient",
-          "territory": "Turquie, Grèce, Balkans, Levant, Égypte",
-          "population": "50 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Espagne, Anatolie, Afrique du Nord",
+        "population": "70'000'000"
+      },
+      {
+        "start_date": { "year": "193" },
+        "end_date": { "year": "235" },
+        "text": {
+          "headline": "Dynastie des Sévères",
+          "text": "Commencée par Septime Sévère, cette dynastie est caractérisée par des réformes militaires et un renforcement de l'autorité impériale. Elle prend fin avec la crise du troisième siècle."
         },
-        {
-          "start_date": { "year": "-27" },
-          "end_date": { "year": "14" },
-          "text": {
-            "headline": "Auguste",
-            "text": "Premier empereur romain, Auguste a établi la Pax Romana et a réorganisé le gouvernement romain."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte",
-          "population": "60 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient",
+        "population": "70'000'000"
+      },
+      {
+        "start_date": { "year": "284" },
+        "end_date": { "year": "305" },
+        "text": {
+          "headline": "Dioclétien et la Tétrarchie",
+          "text": "Dioclétien met en place la tétrarchie pour stabiliser l'Empire, en le divisant en quatre parties gouvernées par deux augustes et deux césars. Cette réforme vise à mieux gérer les crises internes et les invasions extérieures."
         },
-        {
-          "start_date": { "year": "14" },
-          "end_date": { "year": "37" },
-          "text": {
-            "headline": "Tibère",
-            "text": "Deuxième empereur romain, Tibère a consolidé les réformes d'Auguste et renforcé l'administration impériale."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte",
-          "population": "60 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient, Europe",
+        "population": "75'000'000"
+      },
+      {
+        "start_date": { "year": "306" },
+        "end_date": { "year": "337" },
+        "text": {
+          "headline": "Constantin et la fondation de Constantinople",
+          "text": "Constantin le Grand, premier empereur chrétien, réunit l'Empire et fonde Constantinople, nouvelle capitale de l'Empire romain d'Orient. Il instaure le christianisme comme religion dominante."
         },
-        {
-          "start_date": { "year": "37" },
-          "end_date": { "year": "41" },
-          "text": {
-            "headline": "Caligula",
-            "text": "Connu pour son règne tyrannique et extravagant, Caligula a été assassiné en 41 ap. J.-C."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte",
-          "population": "60 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Constantinople, Afrique du Nord, Moyen-Orient",
+        "population": "80'000'000"
+      },
+      {
+        "start_date": { "year": "395" },
+        "end_date": { "year": "476" },
+        "text": {
+          "headline": "Empire romain d'Occident",
+          "text": "L'Empire romain d'Occident, officiellement établi en 395, subit des invasions barbares et des crises internes. Il s'effondre en 476 après la déposition de Romulus Augustule par Odoacre."
         },
-        {
-          "start_date": { "year": "41" },
-          "end_date": { "year": "54" },
-          "text": {
-            "headline": "Claude",
-            "text": "Claude a étendu l'Empire romain et amélioré l'infrastructure de Rome, notamment les aqueducs."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne",
-          "population": "60 000 000"
+        "background": { "color": "#8b0000" },
+        "group": "Occident",
+        "territory": "Italie actuelle, Gaule, Espagne",
+        "population": "30'000'000"
+      },
+      {
+        "start_date": { "year": "395" },
+        "end_date": { "year": "1453" },
+        "text": {
+          "headline": "Empire romain d'Orient",
+          "text": "L'Empire romain d'Orient, aussi connu sous le nom d'Empire byzantin, survit jusqu'à la chute de Constantinople en 1453. Il est marqué par une richesse culturelle et une influence durable sur l'histoire européenne et asiatique."
         },
-        {
-          "start_date": { "year": "54" },
-          "end_date": { "year": "68" },
-          "text": {
-            "headline": "Néron",
-            "text": "Néron est célèbre pour ses persécutions des chrétiens et le grand incendie de Rome en 64 ap. J.-C."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "69" },
-          "end_date": { "year": "79" },
-          "text": {
-            "headline": "Vespasien",
-            "text": "Vespasien a fondé la dynastie flavienne et a commencé la construction du Colisée."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "79" },
-          "end_date": { "year": "81" },
-          "text": {
-            "headline": "Titus",
-            "text": "Fils de Vespasien, Titus est connu pour avoir achevé le Colisée et pour la destruction de Jérusalem en 70 ap. J.-C."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "81" },
-          "end_date": { "year": "96" },
-          "text": {
-            "headline": "Domitien",
-            "text": "Domitien a consolidé les frontières de l'Empire romain et a renforcé l'économie."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "96" },
-          "end_date": { "year": "98" },
-          "text": {
-            "headline": "Nerva",
-            "text": "Nerva a stabilisé l'Empire après la tyrannie de Domitien et a adopté Trajan comme héritier."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "98" },
-          "end_date": { "year": "117" },
-          "text": {
-            "headline": "Trajan",
-            "text": "Trajan a étendu l'Empire romain à son apogée territoriale et a réalisé d'importants projets de construction."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "117" },
-          "end_date": { "year": "138" },
-          "text": {
-            "headline": "Hadrien",
-            "text": "Hadrien a consolidé les frontières de l'Empire romain et a construit le Mur d'Hadrien en Grande-Bretagne."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "138" },
-          "end_date": { "year": "161" },
-          "text": {
-            "headline": "Antonin le Pieux",
-            "text": "Antonin le Pieux a gouverné pendant une période de paix et de prospérité relative."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "161" },
-          "end_date": { "year": "180" },
-          "text": {
-            "headline": "Marc Aurèle",
-            "text": "Marc Aurèle, philosophe et empereur, est connu pour ses « Méditations » et ses campagnes militaires."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "180" },
-          "end_date": { "year": "192" },
-          "text": {
-            "headline": "Commode",
-            "text": "Commode, fils de Marc Aurèle, est connu pour sa cruauté et son règne tyrannique."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "193" },
-          "end_date": { "year": "211" },
-          "text": {
-            "headline": "Septime Sévère",
-            "text": "Septime Sévère a fondé la dynastie des Sévères et renforcé l'armée romaine."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "211" },
-          "end_date": { "year": "217" },
-          "text": {
-            "headline": "Caracalla",
-            "text": "Caracalla est connu pour les édits de Caracalla, étendant la citoyenneté romaine à tous les hommes libres de l'Empire."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "284" },
-          "end_date": { "year": "305" },
-          "text": {
-            "headline": "Dioclétien",
-            "text": "Dioclétien a réformé l'administration et divisé l'Empire en Tétrarchie pour une gestion plus efficace."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "306" },
-          "end_date": { "year": "337" },
-          "text": {
-            "headline": "Constantin le Grand",
-            "text": "Constantin le Grand a fondé Constantinople et a promulgué l'édit de Milan, légalisant le christianisme."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie, Constantinople",
-          "population": "60 000 000"
-        },
-        {
-          "start_date": { "year": "379" },
-          "end_date": { "year": "395" },
-          "text": {
-            "headline": "Théodose Ier",
-            "text": "Théodose Ier a fait du christianisme la religion d'État de l'Empire romain et a divisé l'Empire entre ses fils."
-          },
-          "background": { "color": "#8b0000" },
-          "group": "Empire romain",
-          "territory": "Italie, Espagne, Gaule, Afrique du Nord, Égypte, Bretagne, Judée, Dacie, Mésopotamie, Constantinople",
-          "population": "60 000 000"
-        }
-      ]
-    }
+        "background": { "color": "#8b0000" },
+        "group": "Orient",
+        "territory": "Constantinople, Anatolie, Balkans, Égypte, Levant",
+        "population": "40'000'000"
+      }
+    ]
   }
-  
+}
