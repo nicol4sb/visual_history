@@ -2,8 +2,8 @@
   "timeline": {
     "title": {
       "text": {
-        "headline": "Histoire de Rome",
-        "text": "Une chronologie des principaux événements de la République et de l'Empire romain."
+        "headline": "History of Rome",
+        "text": "A timeline of key events in the Roman Republic and Empire."
       }
     },
     "events": [
@@ -11,109 +11,109 @@
         "start_date": { "year": "-509" },
         "end_date": { "year": "-27" },
         "text": {
-          "headline": "République romaine",
-          "text": "La République romaine s'étend de -509 à -27, une période marquée par des transformations politiques et sociales profondes. La République a vu la création du Sénat et des magistratures républicaines, offrant une structure politique innovante pour l'époque. Les guerres puniques contre Carthage, notamment les victoires de Scipion l'Africain, ont élargi le territoire romain et consolidé sa puissance en Méditerranée. Les conflits internes, tels que les guerres civiles entre Marius et Sylla, puis entre Jules César et Pompée, ont déstabilisé la République et affaibli ses institutions. Le sénat romain, malgré ses efforts pour maintenir l'équilibre des pouvoirs, n'a pas pu contenir l'ambition des généraux et des hommes politiques influents. Jules César, après sa victoire sur Pompée, a instauré une dictature de fait, préparant le terrain pour la fin de la République. Son assassinat en -44 a conduit à une nouvelle guerre civile entre ses héritiers, Octave et Marc Antoine. La victoire d'Octave à la bataille d'Actium en -31 a marqué la fin de la République et le début de l'Empire. Les réformes d'Auguste ont définitivement transformé Rome, la faisant passer d'une république tumultueuse à un empire stable et puissant."
+          "headline": "Roman Republic",
+          "text": "The Roman Republic spanned from 509 BCE to 27 BCE, a period marked by profound political and social transformations. The Republic saw the creation of the Senate and republican magistracies, offering an innovative political structure for its time.<br><br>The Punic Wars against Carthage, notably the victories of Scipio Africanus, expanded Roman territory and consolidated its power in the Mediterranean. Internal conflicts, such as the civil wars between Marius and Sulla, and later between Julius Caesar and Pompey, destabilized the Republic and weakened its institutions. The Roman Senate, despite its efforts to maintain the balance of power, could not contain the ambition of influential generals and politicians.<br><br>Julius Caesar, after his victory over Pompey, established a de facto dictatorship, paving the way for the end of the Republic. His assassination in 44 BCE led to another civil war between his heirs, Octavian and Mark Antony. Octavian's victory at the Battle of Actium in 31 BCE marked the end of the Republic and the beginning of the Empire. Augustus's reforms definitively transformed Rome, transitioning it from a tumultuous republic to a stable and powerful empire."
         },
         "background": { "color": "#8b0000" },
-        "group": "République",
-        "territory": "Rome, Italie actuelle",
-        "population": "4'000'000"
+        "group": "Republic",
+        "territory": "Rome, present-day Italy",
+        "population": "4,000,000"
       },
       {
         "start_date": { "year": "-27" },
         "end_date": { "year": "68" },
         "text": {
-          "headline": "Dynastie Julio-Claudienne",
-          "text": "La dynastie julio-claudienne commence avec Auguste, le premier empereur de Rome, qui règne de -27 à 14. Auguste met fin aux guerres civiles et établit la Pax Romana, une période de paix et de prospérité qui dure plus de deux siècles. Il réforme l'administration, renforce l'armée et promeut les arts et la littérature. Tibère, son successeur, règne de 14 à 37. Son règne est marqué par une gestion prudente des finances publiques et une politique extérieure défensive. Caligula, qui règne de 37 à 41, est connu pour sa cruauté et ses extravagances, ce qui conduit à son assassinat. Claude, qui règne de 41 à 54, étend l'Empire en conquérant la Bretagne et réalise d'importantes réformes administratives. Néron, dernier empereur julio-claudien, règne de 54 à 68. Son règne est marqué par des excès, la persécution des chrétiens, et un grand incendie de Rome en 64. Il se suicide en 68 après une révolte des gouverneurs provinciaux, mettant fin à la dynastie julio-claudienne."
+          "headline": "Julio-Claudian Dynasty",
+          "text": "The Julio-Claudian dynasty begins with Augustus, the first emperor of Rome, who ruled from 27 BCE to 14 CE. Augustus ended the civil wars and established the Pax Romana, a period of peace and prosperity that lasted over two centuries. He reformed the administration, strengthened the army, and promoted arts and literature.<br><br>Tiberius, his successor, ruled from 14 to 37. His reign was marked by prudent management of public finances and a defensive foreign policy. Caligula, who ruled from 37 to 41, is known for his cruelty and extravagance, leading to his assassination. Claudius, who ruled from 41 to 54, expanded the Empire by conquering Britain and implemented significant administrative reforms.<br><br>Nero, the last Julio-Claudian emperor, ruled from 54 to 68. His reign was marked by excesses, the persecution of Christians, and the Great Fire of Rome in 64. He committed suicide in 68 after a revolt by provincial governors, ending the Julio-Claudian dynasty."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle",
-        "population": "55'000'000"
+        "territory": "Rome, present-day Italy",
+        "population": "55,000,000"
       },
       {
         "start_date": { "year": "69" },
         "end_date": { "year": "96" },
         "text": {
-          "headline": "Dynastie Flavienne",
-          "text": "La dynastie flavienne est fondée par Vespasien après l'année des quatre empereurs en 69. Vespasien, qui règne de 69 à 79, stabilise l'Empire après une période de chaos et entreprend la construction du Colisée, le plus grand amphithéâtre de Rome. Il réorganise les finances et renforce les frontières de l'Empire. Son fils aîné, Titus, règne de 79 à 81 et est célèbre pour avoir achevé le Colisée et pour sa gestion de la catastrophe du Vésuve en 79, qui détruit Pompéi et Herculanum. Domitien, le frère cadet de Titus, règne de 81 à 96. Son règne est marqué par des campagnes militaires sur les frontières et des réformes administratives. Domitien est un administrateur efficace mais son autoritarisme et ses persécutions contre les sénateurs et les chrétiens provoquent son assassinat en 96, marquant la fin de la dynastie flavienne."
+          "headline": "Flavian Dynasty",
+          "text": "The Flavian dynasty was founded by Vespasian after the Year of the Four Emperors in 69. Vespasian, who ruled from 69 to 79, stabilized the Empire after a period of chaos and began the construction of the Colosseum, the largest amphitheater in Rome. He reorganized finances and strengthened the Empire's borders.<br><br>His eldest son, Titus, ruled from 79 to 81 and is famous for completing the Colosseum and managing the catastrophe of the Vesuvius eruption in 79, which destroyed Pompeii and Herculaneum. Domitian, Titus's younger brother, ruled from 81 to 96. His reign was marked by military campaigns on the frontiers and administrative reforms.<br><br>Domitian was an efficient administrator, but his authoritarianism and persecutions of senators and Christians led to his assassination in 96, marking the end of the Flavian dynasty."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle",
-        "population": "60'000'000"
+        "territory": "Rome, present-day Italy",
+        "population": "60,000,000"
       },
       {
         "start_date": { "year": "96" },
         "end_date": { "year": "192" },
         "text": {
-          "headline": "Dynastie des Antonins",
-          "text": "La dynastie des Antonins, également connue sous le nom de dynastie des Antonines, est souvent considérée comme l'âge d'or de l'Empire romain. Elle commence avec Nerva en 96, qui adopte Trajan pour lui succéder. Trajan règne de 98 à 117 et étend l'Empire à son apogée territoriale, en conquérant la Dacie (Roumanie actuelle) et en menant des campagnes victorieuses contre les Parthes. Hadrien, son successeur, règne de 117 à 138 et consolide les frontières de l'Empire, notamment en construisant le mur d'Hadrien en Bretagne. Il est également connu pour ses voyages à travers l'Empire et ses réformes administratives. Antonin le Pieux, qui règne de 138 à 161, maintient la paix et la prospérité sans engager de guerres majeures. Marc Aurèle, philosophe et empereur, règne de 161 à 180 et est connu pour ses « Pensées » stoïciennes. Son règne est marqué par des conflits militaires sur les frontières, notamment les guerres marcomanes. Commode, fils de Marc Aurèle, règne de 180 à 192. Son règne dégénère en tyrannie et en extravagance, menant à son assassinat et à une période de chaos."
+          "headline": "Nerva–Antonine Dynasty",
+          "text": "The Nerva–Antonine dynasty, also known as the Antonine dynasty, is often considered the golden age of the Roman Empire. It began with Nerva in 96, who adopted Trajan as his successor.<br><br>Trajan ruled from 98 to 117 and expanded the Empire to its greatest territorial extent, conquering Dacia (present-day Romania) and leading successful campaigns against the Parthians. Hadrian, his successor, ruled from 117 to 138 and consolidated the Empire's borders, notably building Hadrian's Wall in Britain. He was also known for his travels throughout the Empire and his administrative reforms.<br><br>Antoninus Pius, who ruled from 138 to 161, maintained peace and prosperity without engaging in major wars. Marcus Aurelius, philosopher and emperor, ruled from 161 to 180 and is known for his Stoic writings, 'Meditations.' His reign was marked by military conflicts on the frontiers, notably the Marcomannic Wars. Commodus, son of Marcus Aurelius, ruled from 180 to 192. His reign degenerated into tyranny and extravagance, leading to his assassination and a period of chaos."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle, Espagne, Anatolie, Afrique du Nord",
-        "population": "70'000'000"
+        "territory": "Rome, present-day Italy, Spain, Anatolia, North Africa",
+        "population": "70,000,000"
       },
       {
         "start_date": { "year": "193" },
         "end_date": { "year": "235" },
         "text": {
-          "headline": "Dynastie des Sévères",
-          "text": "La dynastie des Sévères commence avec Septime Sévère, qui accède au pouvoir en 193 après une guerre civile. Son règne, de 193 à 211, est marqué par des réformes militaires et administratives, ainsi que par des campagnes victorieuses en Bretagne, en Mésopotamie et en Afrique du Nord. Il renforce l'autorité impériale et réorganise les provinces. Caracalla, son fils, règne de 211 à 217. Il est connu pour l'Édit de Caracalla en 212, qui accorde la citoyenneté romaine à tous les hommes libres de l'Empire. Son règne est également marqué par des campagnes militaires et des assassinats. Macrinus, qui règne brièvement de 217 à 218, est le premier empereur à ne pas être issu de la noblesse sénatoriale. Il est renversé par Héliogabale, un jeune prêtre de 14 ans, qui règne de 218 à 222. Le règne d'Héliogabale est marqué par des scandales et des excès, conduisant à son assassinat. Alexandre Sévère, le dernier de la dynastie, règne de 222 à 235. Son règne est caractérisé par des tentatives de réforme et des campagnes contre les Perses et les Germains. L'assassinat d'Alexandre Sévère en 235 marque la fin de la dynastie et le début de la crise du troisième siècle."
+          "headline": "Severan Dynasty",
+          "text": "The Severan dynasty began with Septimius Severus, who came to power in 193 after a civil war. His reign, from 193 to 211, was marked by military and administrative reforms, as well as victorious campaigns in Britain, Mesopotamia, and North Africa. He strengthened imperial authority and reorganized the provinces.<br><br>Caracalla, his son, ruled from 211 to 217. He is known for the Edict of Caracalla in 212, which granted Roman citizenship to all free men in the Empire. His reign was also marked by military campaigns and assassinations.<br><br>Macrinus, who ruled briefly from 217 to 218, was the first emperor not from the senatorial nobility. He was overthrown by Elagabalus, a 14-year-old priest, who ruled from 218 to 222. Elagabalus's reign was marked by scandals and excesses, leading to his assassination.<br><br>Alexander Severus, the last of the dynasty, ruled from 222 to 235. His reign was characterized by reform attempts and campaigns against the Persians and Germans. Alexander Severus's assassination in 235 marked the end of the dynasty and the beginning of the Crisis of the Third Century."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient",
-        "population": "70'000'000"
+        "territory": "Rome, present-day Italy, North Africa, Middle East",
+        "population": "70,000,000"
       },
       {
         "start_date": { "year": "284" },
         "end_date": { "year": "305" },
         "text": {
-          "headline": "Dioclétien et la Tétrarchie",
-          "text": "Dioclétien, qui devient empereur en 284, met en place la tétrarchie en 293 pour stabiliser l'Empire et mieux gérer les crises internes et les invasions extérieures. La tétrarchie divise l'Empire en deux parties, chacune gouvernée par un Auguste et un César. Dioclétien gouverne l'Orient, tandis que Maximien gouverne l'Occident. Les deux Césars, Constance Chlore et Galère, assistent les Augustes. Cette réforme vise à partager le pouvoir et à réduire les risques de rébellion. Dioclétien entreprend également des réformes administratives, économiques et militaires, stabilisant la monnaie et renforçant l'armée. Il persécute les chrétiens dans le but de restaurer les anciennes religions romaines. En 305, Dioclétien abdique volontairement, une première dans l'histoire romaine, et se retire en Dalmatie. La tétrarchie, cependant, ne survit pas longtemps après son départ, car les rivalités entre les co-empereurs mènent à une série de guerres civiles qui culminent avec la victoire de Constantin en 312."
+          "headline": "Diocletian and the Tetrarchy",
+          "text": "Diocletian, who became emperor in 284, established the Tetrarchy in 293 to stabilize the Empire and better manage internal crises and external invasions. The Tetrarchy divided the Empire into two parts, each governed by an Augustus and a Caesar. Diocletian ruled the East, while Maximian ruled the West. The two Caesars, Constantius Chlorus and Galerius, assisted the Augusti. This reform aimed to share power and reduce the risk of rebellion.<br><br>Diocletian also undertook administrative, economic, and military reforms, stabilizing the currency and strengthening the army. He persecuted Christians to restore the old Roman religions. In 305, Diocletian voluntarily abdicated, a first in Roman history, and retired to Dalmatia. The Tetrarchy, however, did not survive long after his departure, as rivalries between the co-emperors led to a series of civil wars culminating in Constantine's victory in 312."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient, Europe",
-        "population": "75'000'000"
+        "territory": "Rome, present-day Italy, North Africa, Middle East, Europe",
+        "population": "75,000,000"
       },
       {
         "start_date": { "year": "306" },
         "end_date": { "year": "337" },
         "text": {
-          "headline": "Constantin et la fondation de Constantinople",
-          "text": "Constantin le Grand, proclamé empereur par ses troupes en 306, est l'un des empereurs les plus influents de l'histoire romaine. Après une série de guerres civiles, il devient le seul empereur en 324. Constantin est le premier empereur chrétien, et son règne est marqué par la conversion de l'Empire au christianisme. En 313, il promulgue l'Édit de Milan, qui accorde la liberté de culte à toutes les religions. En 330, il fonde Constantinople (aujourd'hui Istanbul), qui devient la nouvelle capitale de l'Empire romain d'Orient. Constantinople est stratégiquement située et fortifiée, servant de centre politique, économique et culturel pour l'Empire. Constantin réorganise également l'armée et l'administration, renforçant le pouvoir impérial. Il convoque le Concile de Nicée en 325 pour établir une doctrine chrétienne unifiée. Sa mort en 337 laisse un Empire chrétien et centralisé, divisé entre ses trois fils. Le règne de Constantin marque un tournant dans l'histoire romaine, jetant les bases de l'Empire byzantin."
+          "headline": "Constantine and the Founding of Constantinople",
+          "text": "Constantine the Great, proclaimed emperor by his troops in 306, is one of the most influential emperors in Roman history. After a series of civil wars, he became the sole emperor in 324. Constantine was the first Christian emperor, and his reign marked the conversion of the Empire to Christianity. In 313, he issued the Edict of Milan, granting freedom of worship to all religions.<br><br>In 330, he founded Constantinople (modern-day Istanbul), which became the new capital of the Eastern Roman Empire. Constantinople was strategically located and fortified, serving as a political, economic, and cultural center for the Empire. Constantine also reorganized the army and administration, strengthening imperial power. He convened the Council of Nicaea in 325 to establish a unified Christian doctrine.<br><br>His death in 337 left a Christian and centralized Empire, divided among his three sons. Constantine's reign marked a turning point in Roman history, laying the foundations for the Byzantine Empire."
         },
         "background": { "color": "#8b0000" },
         "group": "Empire",
-        "territory": "Rome, Italie actuelle, Constantinople, Afrique du Nord, Moyen-Orient",
-        "population": "80'000'000"
+        "territory": "Rome, present-day Italy, Constantinople, North Africa, Middle East",
+        "population": "80,000,000"
       },
       {
         "start_date": { "year": "395" },
         "end_date": { "year": "476" },
         "text": {
-          "headline": "Empire romain d'Occident",
-          "text": "L'Empire romain d'Occident, officiellement établi en 395 après la division de l'Empire par Théodose Ier, subit des invasions barbares et des crises internes constantes. Les empereurs occidentaux, tels qu'Honorius, Valentinien III et Romulus Augustule, luttent pour maintenir le contrôle face aux incursions des tribus germaniques et autres peuples barbares. Le sac de Rome par les Wisigoths en 410 et par les Vandales en 455 symbolise la déchéance de l'Empire. L'influence de généraux puissants, comme Flavius Stilicon, marque cette période. La société romaine occidentale est complexe et diversifiée, avec une hiérarchie sociale bien définie et une vie urbaine centrée autour des villes fortifiées. Le régime alimentaire comprend des céréales, du pain, de l'huile d'olive, des légumes, des fruits, du poisson et de la viande. Les Romains pratiquent une religion polythéiste avant l'adoption du christianisme comme religion d'État sous l'empereur Constantin. Les arts et la culture romains prospèrent, avec des avancées en architecture, en sculpture et en littérature. Malgré les efforts pour préserver l'empire, l'Empire romain d'Occident succombe finalement aux invasions barbares. En 476, le chef germanique Odoacre dépose le dernier empereur, Romulus Augustule, marquant la fin de l'Empire romain d'Occident."
+          "headline": "Western Roman Empire",
+          "text": "The Western Roman Empire, officially established in 395 after the division of the Empire by Theodosius I, faced constant barbarian invasions and internal crises. Western emperors, such as Honorius, Valentinian III, and Romulus Augustulus, struggled to maintain control against the incursions of Germanic tribes and other barbarian peoples. The sack of Rome by the Visigoths in 410 and by the Vandals in 455 symbolized the decline of the Empire.<br><br>The influence of powerful generals, such as Flavius Stilicho, marked this period. Western Roman society was complex and diverse, with a well-defined social hierarchy and urban life centered around fortified cities. The diet included grains, bread, olive oil, vegetables, fruits, fish, and meat. Romans practiced polytheistic religion before adopting Christianity as the state religion under Emperor Constantine. Roman arts and culture flourished, with advances in architecture, sculpture, and literature.<br><br>Despite efforts to preserve the Empire, the Western Roman Empire ultimately succumbed to barbarian invasions. In 476, the Germanic leader Odoacer deposed the last emperor, Romulus Augustulus, marking the end of the Western Roman Empire."
         },
         "background": { "color": "#8b0000" },
-        "group": "Occident",
-        "territory": "Italie actuelle, Gaule, Espagne",
-        "population": "30'000'000"
+        "group": "West",
+        "territory": "Present-day Italy, Gaul, Spain",
+        "population": "30,000,000"
       },
       {
         "start_date": { "year": "395" },
         "end_date": { "year": "1453" },
         "text": {
-          "headline": "Empire romain d'Orient",
-          "text": "L'Empire romain d'Orient, également connu sous le nom d'Empire byzantin, survit à la chute de l'Empire romain d'Occident et prospère jusqu'à la prise de Constantinople par les Ottomans en 1453. Fondé sur les réformes de Dioclétien et Constantin, l'Empire byzantin conserve de nombreuses traditions romaines tout en développant une culture distincte influencée par le christianisme orthodoxe. La capitale, Constantinople, devient un centre politique, économique et culturel majeur. Sous le règne de Justinien (527-565), l'Empire connaît un renouveau avec la reconquête de l'Afrique du Nord, de l'Italie et de l'Espagne. Justinien codifie également le droit romain dans le Corpus Juris Civilis, qui devient la base du droit civil en Europe. L'art byzantin, caractérisé par des mosaïques et des icônes religieuses, atteint des sommets de sophistication. Malgré des périodes de crise, comme l'iconoclasme et les invasions arabes, l'Empire maintient son influence. Les empereurs byzantins, comme Basile II et Alexis Ier Comnène, réussissent à défendre et à restaurer la puissance de l'Empire. L'Empire byzantin joue un rôle crucial dans la préservation des connaissances antiques et la transmission de la culture gréco-romaine à l'Europe médiévale. La chute de Constantinople en 1453 marque la fin de l'Empire byzantin, mais son héritage perdure dans l'histoire et la culture de l'Europe de l'Est et du Moyen-Orient."
+          "headline": "Eastern Roman Empire",
+          "text": "The Eastern Roman Empire, also known as the Byzantine Empire, survived the fall of the Western Roman Empire and thrived until the Ottoman conquest of Constantinople in 1453. Founded on the reforms of Diocletian and Constantine, the Byzantine Empire retained many Roman traditions while developing a distinct culture influenced by Orthodox Christianity. The capital, Constantinople, became a major political, economic, and cultural center.<br><br>Under the reign of Justinian (527-565), the Empire experienced a revival with the reconquest of North Africa, Italy, and Spain. Justinian also codified Roman law in the Corpus Juris Civilis, which became the basis of civil law in Europe. Byzantine art, characterized by mosaics and religious icons, reached new heights of sophistication.<br><br>Despite periods of crisis, such as the Iconoclasm and Arab invasions, the Empire maintained its influence. Byzantine emperors, like Basil II and Alexios I Komnenos, successfully defended and restored the Empire's power. The Byzantine Empire played a crucial role in preserving ancient knowledge and transmitting Greco-Roman culture to medieval Europe.<br><br>The fall of Constantinople in 1453 marked the end of the Byzantine Empire, but its legacy endures in the history and culture of Eastern Europe and the Middle East."
         },
         "background": { "color": "#8b0000" },
-        "group": "Orient",
-        "territory": "Constantinople, Anatolie, Balkans, Égypte, Levant",
-        "population": "40'000'000"
+        "group": "East",
+        "territory": "Constantinople, Anatolia, Balkans, Egypt, Levant",
+        "population": "40,000,000"
       }
     ]
   }

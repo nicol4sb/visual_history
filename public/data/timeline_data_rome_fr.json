@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "title": {
+      "text": {
+        "headline": "Histoire de Rome",
+        "text": "Une chronologie des principaux événements de la République et de l'Empire romain."
+      }
+    },
+    "events": [
+      {
+        "start_date": { "year": "-509" },
+        "end_date": { "year": "-27" },
+        "text": {
+          "headline": "République romaine",
+          "text": "La République romaine s'étend de -509 à -27, une période marquée par des transformations politiques et sociales profondes. La République a vu la création du Sénat et des magistratures républicaines, offrant une structure politique innovante pour l'époque.<br><br>Les guerres puniques contre Carthage, notamment les victoires de Scipion l'Africain, ont élargi le territoire romain et consolidé sa puissance en Méditerranée. Les conflits internes, tels que les guerres civiles entre Marius et Sylla, puis entre Jules César et Pompée, ont déstabilisé la République et affaibli ses institutions. Le sénat romain, malgré ses efforts pour maintenir l'équilibre des pouvoirs, n'a pas pu contenir l'ambition des généraux et des hommes politiques influents.<br><br>Jules César, après sa victoire sur Pompée, a instauré une dictature de fait, préparant le terrain pour la fin de la République. Son assassinat en -44 a conduit à une nouvelle guerre civile entre ses héritiers, Octave et Marc Antoine. La victoire d'Octave à la bataille d'Actium en -31 a marqué la fin de la République et le début de l'Empire. Les réformes d'Auguste ont définitivement transformé Rome, la faisant passer d'une république tumultueuse à un empire stable et puissant."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "République",
+        "territory": "Rome, Italie actuelle",
+        "population": "4'000'000"
+      },
+      {
+        "start_date": { "year": "-27" },
+        "end_date": { "year": "68" },
+        "text": {
+          "headline": "Dynastie Julio-Claudienne",
+          "text": "La dynastie julio-claudienne commence avec Auguste, le premier empereur de Rome, qui règne de -27 à 14. Auguste met fin aux guerres civiles et établit la Pax Romana, une période de paix et de prospérité qui dure plus de deux siècles. Il réforme l'administration, renforce l'armée et promeut les arts et la littérature.<br><br>Tibère, son successeur, règne de 14 à 37. Son règne est marqué par une gestion prudente des finances publiques et une politique extérieure défensive. Caligula, qui règne de 37 à 41, est connu pour sa cruauté et ses extravagances, ce qui conduit à son assassinat. Claude, qui règne de 41 à 54, étend l'Empire en conquérant la Bretagne et réalise d'importantes réformes administratives.<br><br>Néron, dernier empereur julio-claudien, règne de 54 à 68. Son règne est marqué par des excès, la persécution des chrétiens, et un grand incendie de Rome en 64. Il se suicide en 68 après une révolte des gouverneurs provinciaux, mettant fin à la dynastie julio-claudienne."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle",
+        "population": "55'000'000"
+      },
+      {
+        "start_date": { "year": "69" },
+        "end_date": { "year": "96" },
+        "text": {
+          "headline": "Dynastie Flavienne",
+          "text": "La dynastie flavienne est fondée par Vespasien après l'année des quatre empereurs en 69. Vespasien, qui règne de 69 à 79, stabilise l'Empire après une période de chaos et entreprend la construction du Colisée, le plus grand amphithéâtre de Rome. Il réorganise les finances et renforce les frontières de l'Empire.<br><br>Son fils aîné, Titus, règne de 79 à 81 et est célèbre pour avoir achevé le Colisée et pour sa gestion de la catastrophe du Vésuve en 79, qui détruit Pompéi et Herculanum. Domitien, le frère cadet de Titus, règne de 81 à 96. Son règne est marqué par des campagnes militaires sur les frontières et des réformes administratives.<br><br>Domitien est un administrateur efficace mais son autoritarisme et ses persécutions contre les sénateurs et les chrétiens provoquent son assassinat en 96, marquant la fin de la dynastie flavienne."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle",
+        "population": "60'000'000"
+      },
+      {
+        "start_date": { "year": "96" },
+        "end_date": { "year": "192" },
+        "text": {
+          "headline": "Dynastie des Antonins",
+          "text": "La dynastie des Antonins, également connue sous le nom de dynastie des Antonines, est souvent considérée comme l'âge d'or de l'Empire romain. Elle commence avec Nerva en 96, qui adopte Trajan pour lui succéder.<br><br>Trajan règne de 98 à 117 et étend l'Empire à son apogée territoriale, en conquérant la Dacie (Roumanie actuelle) et en menant des campagnes victorieuses contre les Parthes. Hadrien, son successeur, règne de 117 à 138 et consolide les frontières de l'Empire, notamment en construisant le mur d'Hadrien en Bretagne. Il est également connu pour ses voyages à travers l'Empire et ses réformes administratives.<br><br>Antonin le Pieux, qui règne de 138 à 161, maintient la paix et la prospérité sans engager de guerres majeures. Marc Aurèle, philosophe et empereur, règne de 161 à 180 et est connu pour ses « Pensées » stoïciennes. Son règne est marqué par des conflits militaires sur les frontières, notamment les guerres marcomanes. Commode, fils de Marc Aurèle, règne de 180 à 192. Son règne dégénère en tyrannie et en extravagance, menant à son assassinat et à une période de chaos."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Espagne, Anatolie, Afrique du Nord",
+        "population": "70'000'000"
+      },
+      {
+        "start_date": { "year": "193" },
+        "end_date": { "year": "235" },
+        "text": {
+          "headline": "Dynastie des Sévères",
+          "text": "La dynastie des Sévères commence avec Septime Sévère, qui accède au pouvoir en 193 après une guerre civile. Son règne, de 193 à 211, est marqué par des réformes militaires et administratives, ainsi que par des campagnes victorieuses en Bretagne, en Mésopotamie et en Afrique du Nord. Il renforce l'autorité impériale et réorganise les provinces.<br><br>Caracalla, son fils, règne de 211 à 217. Il est connu pour l'Édit de Caracalla en 212, qui accorde la citoyenneté romaine à tous les hommes libres de l'Empire. Son règne est également marqué par des campagnes militaires et des assassinats.<br><br>Macrinus, qui règne brièvement de 217 à 218, est le premier empereur à ne pas être issu de la noblesse sénatoriale. Il est renversé par Héliogabale, un jeune prêtre de 14 ans, qui règne de 218 à 222. Le règne d'Héliogabale est marqué par des scandales et des excès, conduisant à son assassinat.<br><br>Alexandre Sévère, le dernier de la dynastie, règne de 222 à 235. Son règne est caractérisé par des tentatives de réforme et des campagnes contre les Perses et les Germains. L'assassinat d'Alexandre Sévère en 235 marque la fin de la dynastie et le début de la crise du troisième siècle."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient",
+        "population": "70'000'000"
+      },
+      {
+        "start_date": { "year": "284" },
+        "end_date": { "year": "305" },
+        "text": {
+          "headline": "Dioclétien et la Tétrarchie",
+          "text": "Dioclétien, qui devient empereur en 284, met en place la tétrarchie en 293 pour stabiliser l'Empire et mieux gérer les crises internes et les invasions extérieures. La tétrarchie divise l'Empire en deux parties, chacune gouvernée par un Auguste et un César. Dioclétien gouverne l'Orient, tandis que Maximien gouverne l'Occident. Les deux Césars, Constance Chlore et Galère, assistent les Augustes. Cette réforme vise à partager le pouvoir et à réduire les risques de rébellion.<br><br>Dioclétien entreprend également des réformes administratives, économiques et militaires, stabilisant la monnaie et renforçant l'armée. Il persécute les chrétiens dans le but de restaurer les anciennes religions romaines. En 305, Dioclétien abdique volontairement, une première dans l'histoire romaine, et se retire en Dalmatie. La tétrarchie, cependant, ne survit pas longtemps après son départ, car les rivalités entre les co-empereurs mènent à une série de guerres civiles qui culminent avec la victoire de Constantin en 312."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Afrique du Nord, Moyen-Orient, Europe",
+        "population": "75'000'000"
+      },
+      {
+        "start_date": { "year": "306" },
+        "end_date": { "year": "337" },
+        "text": {
+          "headline": "Constantin et la fondation de Constantinople",
+          "text": "Constantin le Grand, proclamé empereur par ses troupes en 306, est l'un des empereurs les plus influents de l'histoire romaine. Après une série de guerres civiles, il devient le seul empereur en 324. Constantin est le premier empereur chrétien, et son règne est marqué par la conversion de l'Empire au christianisme. En 313, il promulgue l'Édit de Milan, qui accorde la liberté de culte à toutes les religions.<br><br>En 330, il fonde Constantinople (aujourd'hui Istanbul), qui devient la nouvelle capitale de l'Empire romain d'Orient. Constantinople est stratégiquement située et fortifiée, servant de centre politique, économique et culturel pour l'Empire. Constantin réorganise également l'armée et l'administration, renforçant le pouvoir impérial. Il convoque le Concile de Nicée en 325 pour établir une doctrine chrétienne unifiée.<br><br>Sa mort en 337 laisse un Empire chrétien et centralisé, divisé entre ses trois fils. Le règne de Constantin marque un tournant dans l'histoire romaine, jetant les bases de l'Empire byzantin."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Empire",
+        "territory": "Rome, Italie actuelle, Constantinople, Afrique du Nord, Moyen-Orient",
+        "population": "80'000'000"
+      },
+      {
+        "start_date": { "year": "395" },
+        "end_date": { "year": "476" },
+        "text": {
+          "headline": "Empire romain d'Occident",
+          "text": "L'Empire romain d'Occident, officiellement établi en 395 après la division de l'Empire par Théodose Ier, subit des invasions barbares et des crises internes constantes. Les empereurs occidentaux, tels qu'Honorius, Valentinien III et Romulus Augustule, luttent pour maintenir le contrôle face aux incursions des tribus germaniques et autres peuples barbares. Le sac de Rome par les Wisigoths en 410 et par les Vandales en 455 symbolise la déchéance de l'Empire.<br><br>L'influence de généraux puissants, comme Flavius Stilicon, marque cette période. La société romaine occidentale est complexe et diversifiée, avec une hiérarchie sociale bien définie et une vie urbaine centrée autour des villes fortifiées. Le régime alimentaire comprend des céréales, du pain, de l'huile d'olive, des légumes, des fruits, du poisson et de la viande. Les Romains pratiquent une religion polythéiste avant l'adoption du christianisme comme religion d'État sous l'empereur Constantin. Les arts et la culture romains prospèrent, avec des avancées en architecture, en sculpture et en littérature.<br><br>Malgré les efforts pour préserver l'empire, l'Empire romain d'Occident succombe finalement aux invasions barbares. En 476, le chef germanique Odoacre dépose le dernier empereur, Romulus Augustule, marquant la fin de l'Empire romain d'Occident."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Occident",
+        "territory": "Italie actuelle, Gaule, Espagne",
+        "population": "30'000'000"
+      },
+      {
+        "start_date": { "year": "395" },
+        "end_date": { "year": "1453" },
+        "text": {
+          "headline": "Empire romain d'Orient",
+          "text": "L'Empire romain d'Orient, également connu sous le nom d'Empire byzantin, survit à la chute de l'Empire romain d'Occident et prospère jusqu'à la prise de Constantinople par les Ottomans en 1453. Fondé sur les réformes de Dioclétien et Constantin, l'Empire byzantin conserve de nombreuses traditions romaines tout en développant une culture distincte influencée par le christianisme orthodoxe. La capitale, Constantinople, devient un centre politique, économique et culturel majeur.<br><br>Sous le règne de Justinien (527-565), l'Empire connaît un renouveau avec la reconquête de l'Afrique du Nord, de l'Italie et de l'Espagne. Justinien codifie également le droit romain dans le Corpus Juris Civilis, qui devient la base du droit civil en Europe. L'art byzantin, caractérisé par des mosaïques et des icônes religieuses, atteint des sommets de sophistication.<br><br>Malgré des périodes de crise, comme l'iconoclasme et les invasions arabes, l'Empire maintient son influence. Les empereurs byzantins, comme Basile II et Alexis Ier Comnène, réussissent à défendre et à restaurer la puissance de l'Empire. L'Empire byzantin joue un rôle crucial dans la préservation des connaissances antiques et la transmission de la culture gréco-romaine à l'Europe médiévale.<br><br>La chute de Constantinople en 1453 marque la fin de l'Empire byzantin, mais son héritage perdure dans l'histoire et la culture de l'Europe de l'Est et du Moyen-Orient."
+        },
+        "background": { "color": "#8b0000" },
+        "group": "Orient",
+        "territory": "Constantinople, Anatolie, Balkans, Égypte, Levant",
+        "population": "40'000'000"
+      }
+    ]
+  }
+}
