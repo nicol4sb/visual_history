@@ -7,8 +7,8 @@ const options = {
   start_at_slide: 0, // Start at the first slide
 };
 
-function loadTimelineData(type) {
-  fetch(`timeline_data_${type}.json`)
+function loadTimelineData(type, lang) {
+  fetch(`timeline_data_${type}_${lang}.json`)
     .then((response) => {
       if (!response.ok) {
         throw new Error("Network response was not ok");
@@ -24,9 +24,9 @@ function loadTimelineData(type) {
     })
     .catch((error) => {
       console.error("Error loading timeline data:", error);
-      // Load default timeline (Antiquity) if the specified type is not found
-      if (type !== "antiquity") {
-        loadTimelineData("antiquity");
+      // Load default timeline (Antiquity) in the default language if the specified type is not found
+      if (type !== "antiquity" || lang !== "en") {
+        loadTimelineData("antiquity", "en");
       }
     });
 }
@@ -52,8 +52,8 @@ function toggleMenu() {
 }
 
 // Select timeline and collapse the menu
-function selectTimeline(type) {
-  loadTimelineData(type);
+function selectTimeline(type, lang) {
+  loadTimelineData(type, lang);
   toggleMenu();
 }
 
@@ -69,5 +69,7 @@ document.addEventListener("click", (event) => {
 
 // Detect user's language preference and set the default timeline
 document.addEventListener("DOMContentLoaded", () => {
-  loadTimelineData("antiquity");
+  const userLang = navigator.language || navigator.userLanguage;
+  const lang = userLang.split("-")[0]; // Use the first part of the language code (e.g., 'en' from 'en-US')
+  loadTimelineData("antiquity", lang);
 });
