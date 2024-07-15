@@ -114,18 +114,22 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(files => {
             const menuItems = document.getElementById("menu-items");
             const types = new Set(files.map(file => file.match(/timeline_data_(.*?)_/)[1]));
-            types.forEach(type => {
-                const button = document.createElement("button");
-                button.textContent = type.charAt(0).toUpperCase() + type.slice(1);
-                button.onclick = () => selectTimeline(type);
-                menuItems.appendChild(button);
+
+            // Load translations and then generate menu
+            loadTranslations(userLang).then(() => {
+                types.forEach(type => {
+                    const button = document.createElement("button");
+                    button.textContent = translations[type] || (type.charAt(0).toUpperCase() + type.slice(1));
+                    button.onclick = () => selectTimeline(type);
+                    menuItems.appendChild(button);
+                });
             });
         })
         .catch(error => {
             console.error("Error fetching timeline files:", error);
         });
 
-    // Load translations and then the default timeline (Antiquity)
+    // Load default timeline (Antiquity)
     loadTranslations(userLang).then(() => {
         loadTimelineData("antiquity", userLang);
     });

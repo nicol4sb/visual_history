@@ -2,7 +2,7 @@
   "timeline": {
     "title": {
       "text": {
-        "headline": "Classical Antiquity, Greece and Rome",
+        "headline": "Classical Greece",
         "text": "Civilizations and progress of humanity at a glance"
       }
     },
@@ -42,18 +42,6 @@
         "group": "Asia Minor",
         "territory": "Modern-day Greece",
         "population": "150,000"
-      },
-      {
-        "start_date": { "year": "-27" },
-        "end_date": { "year": "476" },
-        "text": {
-          "headline": "Roman Empire",
-          "text": "The Roman Republic evolves into an empire covering Europe, North Africa, and the Middle East. Pax Romana and Constantinople founded in 330.<br><br>Augustus, the first Roman emperor, inaugurated a period of peace and prosperity known as the Pax Romana. Notable rulers include Trajan, Hadrian, and Constantine. The Romans made significant discoveries in engineering, law, and governance.<br><br>Their diet included bread, olive oil, wine, vegetables, and meats. Leisure activities included gladiatorial games, public baths, and theater. Roman art is visible in sculptures, mosaics, and grand architecture such as the Colosseum."
-        },
-        "background": { "color": "#8b0000" },
-        "group": "Europe",
-        "territory": "Modern-day Italy",
-        "population": "60,000,000"
       }
     ]
   }

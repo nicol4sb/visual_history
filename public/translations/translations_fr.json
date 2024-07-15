@@ -1,3 +1,7 @@
 {
-    "territory": "Territoire"
+  "territory": "Territoire",
+  "antiquity": "Antiquité",
+  "geological": "Histoire Géologique",
+  "greece": "Grèce Classique",
+  "rome": "Rome"
 }
