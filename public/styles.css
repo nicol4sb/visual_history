@@ -89,11 +89,6 @@ body {
   text-align: left; /* Aligns title to the left */
 }
 
-/* Customize timeline marker content */
-.tl-timemarker-content-container {
-  background-color: #fff !important; /* Light background for contrast */
-}
-
 /* Increase font size for slide navigation title */
 .tl-timenav-item-title {
   font-size: 18px !important;

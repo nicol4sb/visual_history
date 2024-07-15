@@ -1,7 +1,6 @@
 const options = {
     timenav_position: "bottom", // Position the navigation at the bottom
-    scale_factor: 0.5, // Scale factor
-    initial_zoom: 3, // Initial zoom level
+    scale_factor: 1, // Scale factor
     timenav_height_percentage: 25, // Height of the timeline navigation as a percentage
     duration: 200, // Animation duration in milliseconds
     start_at_slide: 0, // Start at the first slide
