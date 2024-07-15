@@ -1,3 +1,13 @@
+/* Ensure the timeline fits the viewport height and avoids URL bar issues */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Prevents scrolling */
+}
+
 #timeline-embed {
   width: 100%;
   height: 100vh; /* Occupies full height of the viewport */
@@ -77,6 +87,11 @@
 
 .tl-headline {
   text-align: left; /* Aligns title to the left */
+}
+
+/* Customize timeline marker content */
+.tl-timemarker-content-container {
+  background-color: #fff !important; /* Light background for contrast */
 }
 
 /* Increase font size for slide navigation title */
